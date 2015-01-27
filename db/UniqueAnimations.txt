@@ -1,0 +1,15 @@
+{
+    "APBedMissionary" : true,
+    "APCowgirl" : true,
+    "ArrokCowgirl" : true,
+    "DarkInvestigationsDoggystyle" : true,
+    "SexLabAggrMissionary" : true,
+    "ZynDoggystyle" : true,
+    "ZynMissionary" : true,
+    "ZynRoughStanding" : true,
+    "ArrokBlowjob" : true,
+    "ArrokOral" : true,
+    "DarkInvestigationsBlowjob" : true,
+    "DDBeltedSolo" : true,
+    "Zap$ZazAP_PillorySex01" : true
+}

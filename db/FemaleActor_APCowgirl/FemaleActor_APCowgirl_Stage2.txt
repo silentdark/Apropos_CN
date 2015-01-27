@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I slowly draw myself up {ACTIVE}'s {PENIS}, my heart in my throat as I let myself drop back down.",
+        "I gasp and catch myself before I fall, suddenly scared of taking all of him in one go.",
+        "Every time I raise myself to the top of his {PENIS}, I'm suddenly giddy and a little scared.",
+        "With each deep pump along his {PENIS}, I feel my orgasm start to stir deep inside.",
+        "The rush of dropping down {ACTIVE}'s entire {PENIS} to the base is elating, I feel high!",
+        "Holy shit, you're so hard!",
+        "The head of his {COCK} is colossal, I can't believe the feeling of it way up inside me.",
+        "I'm naked and sweating, with a wonderful {COCK} in my {PUSSY}. I grin widely, lost to joy.",
+        "I pull off of {ACTIVE}, pausing at the tip before plunging back down."
+    ],
+    "2nd Person" :
+    [
+        "You slowly draw yourself up {ACTIVE}'s {PENIS}, your heart in your throat as you drop back down.",
+        "You gasp and catch yourself before you fall, suddenly scared of taking all of him in one go.",
+        "Every time you raise yourself to the top of his {PENIS}, you're suddenly giddy and a little scared.",
+        "With each deep pump along his {COCK}, you feel your orgasm start to stir deep inside.",
+        "The rush of dropping down {ACTIVE}'s entire {PENIS} to the base is elating, you feel high!",
+        "({PRIMARY}) Holy shit, you're so hard!",
+        "The head of his {COCK} is colossal, you can't believe the feeling of it way up inside you.",
+        "You're naked and sweating, with a wonderful {COCK} in your {PUSSY}. You grin widely, lost to joy.",
+        "You pull off of {ACTIVE}, pausing at the tip before plunging back down."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} draws herself up to the top of {ACTIVE}'s {HUGE} {PENIS}, but hesitates each time.",
+        "{PRIMARY} pumps up and down the full length of {ACTIVE}'s {COCK}, taking it to the base.",
+        "{PRIMARY} pauses at the head of his {COCK} before dropping herself right down on top of it.",
+        "{PRIMARY}'s nipples stand out more and more every time she takes {ACTIVE}'s {PENIS}."
+    ]
+}

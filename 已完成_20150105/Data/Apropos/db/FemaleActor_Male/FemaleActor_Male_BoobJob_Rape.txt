@@ -1,0 +1,54 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}掏出他的{COCK}，下了我一跳...这要是除了乳交还要干点别的我可受不了.",
+        "{ACTIVE}命令我把自己扒的光光的,扒就扒,于是我就把自己扒光了.",
+		"我的衣服被突然扯下,{BOOBS}一下子弹了出来.",
+		"我赤裸着在他面前站着,身体完全暴露在大庭广众之下.",
+        "{ACTIVE}没收了我的衣服,宣布我{HEAVING}{BOOBS}的控制权现在是他的.",
+        "我被迫在{ACTIVE}的面前褪下衣物,把自己暴露在他眼前.",
+        "{ACTIVE}除下了我的胸罩，将我的{BOOBS}暴露在他的色迷迷的眼前.",
+        "我坐在地上,肩带从肩膀上滑落,露出我{HEAVING}{BOOBS}和已经硬起来的乳头.",
+        "{ACTIVE}色迷迷地看着我{HEAVING}{BOOBS}.我红着脸,并没有遮盖.",
+        "我轻声哼叫着，丢下了我的衣服, 暴露出我光滑柔软{HEAVING}{BOOBS}.",
+		"{ACTIVE}的目光已经黏在我{HEAVING}{BOOBS}上了.",
+		"我一丝不挂,就这样让我{HEAVING}{BOOBS}完全赤裸地暴露在空气里.",
+        "我不情愿地褪下我的上装,暴露出我{HEAVING}{BOOBS}和已经勃起的乳头.",
+        "我的{BOOBS}裸露着,我捧着它们挤压着{ACTIVE}的{COCK}."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}掏出他的{COCK}，下了你一跳...这要是除了乳交还要干点别的你可能要出事儿.",
+        "{ACTIVE}命令你把自己扒的光光的,你只听听从他的话.",
+		"你的衣服被突然扯下,{BOOBS}一下子弹了出来.",
+		"你赤裸着在他面前站着,身体完全暴露在大庭广众之下.",
+        "{ACTIVE}没收了你的衣服,宣布你{HEAVING}{BOOBS}的控制权现在是他的.",
+        "你被迫在{ACTIVE}的面前褪下衣物,把自己暴露在他眼前.",
+        "{ACTIVE}除下了你的胸罩，将你的{BOOBS}暴露在他的色迷迷的眼前.",
+        "你坐在地上,肩带从肩膀上滑落,露出你{HEAVING}{BOOBS}和已经硬起来的乳头.",
+        "{ACTIVE}色迷迷地看着你{HEAVING}{BOOBS}.你红着脸,并没有遮盖.",
+        "你轻声哼叫着，丢下了衣服, 暴露出你光滑柔软{HEAVING}{BOOBS}.",
+		"{ACTIVE}的目光已经黏在你{HEAVING}{BOOBS}上了.",
+		"你一丝不挂,就这样让你{HEAVING}{BOOBS}完全赤裸地暴露在空气里.",
+        "你不情愿地褪下你的上装,暴露出你{HEAVING}{BOOBS}和已经勃起的乳头.",
+        "你的{BOOBS}裸露着,你捧着它们挤压着{ACTIVE}的{COCK}."
+
+    ],
+    "3rd Person" :
+    [
+		"{ACTIVE}掏出他的{COCK}，下了{PRIMARY}一跳...这要是除了乳交还要干点别的{PRIMARY}可能要出事儿.",
+        "{ACTIVE}命令{PRIMARY}把自己扒的光光的,{PRIMARY}只听听从他的话.",
+		"{PRIMARY}的衣服被突然扯下,{BOOBS}一下子弹了出来.",
+		"{PRIMARY}赤裸着在他面前站着,身体完全暴露在大庭广众之下.",
+        "{ACTIVE}没收了{PRIMARY}的衣服,宣布{PRIMARY}{HEAVING}{BOOBS}的控制权现在是他的.",
+        "{PRIMARY}被迫在{ACTIVE}的面前褪下衣物,把自己暴露在他眼前.",
+        "{ACTIVE}除下了{PRIMARY}的胸罩，将{PRIMARY}的{BOOBS}暴露在他的色迷迷的眼前.",
+        "{PRIMARY}坐在地上,肩带从肩膀上滑落,露出{PRIMARY}{HEAVING}{BOOBS}和已经硬起来的乳头.",
+        "{ACTIVE}色迷迷地看着{PRIMARY}{HEAVING}{BOOBS}.{PRIMARY}红着脸,并没有遮盖.",
+        "{PRIMARY}轻声哼叫着，丢下了衣服, 暴露出{PRIMARY}光滑柔软{HEAVING}{BOOBS}.",
+		"{ACTIVE}的目光已经黏在{PRIMARY}{HEAVING}{BOOBS}上了.",
+		"{PRIMARY}一丝不挂,就这样让{PRIMARY}{HEAVING}{BOOBS}完全赤裸地暴露在空气里.",
+        "{PRIMARY}不情愿地褪下{PRIMARY}的上装,暴露出{PRIMARY}{HEAVING}{BOOBS}和已经勃起的乳头.",
+        "{PRIMARY}的{BOOBS}裸露着,{PRIMARY}捧着它们挤压着{ACTIVE}的{COCK}."
+    ]
+}

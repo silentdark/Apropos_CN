@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "我伸出手去玩弄 {ACTIVE}的睾丸. 它们是如此地厚重,  里面一定装满了 {JUICY} {CUM}!",
+        "我一想到马上就可以喝到这些蛋蛋里的饮料嘴唇都湿了...",
+        "当我伸手轻柔地抚摸它的蛋蛋时  {ACTIVE} 全身一震.",
+        "它看上去如此享受. 也许它不会在意我再... 深入一点?",
+        " {ACTIVE} 并不明白人兽性交是多么淫乱, 它只知道把积攒已久的精液射出来感觉不错!",
+        "我想知道这些蛋蛋里的液体究竟有没有在一个人类女孩的身体中发泄出来过?",
+        "当它因为我熟练的口技和爱抚而射光那些 {THICK} {CUM}时究竟是怎么样的感觉呢...",
+        "哇天呐! 这气味让我变得更加狂野了! 也许我再爱抚一会就该进入正戏了...",
+        "这东西都快和巨人的一样大了!当它突然喷出那么多{CUM} 时, 该是多么壮观?",
+        "姆嗯... 我还不知道我将要做什么, 但我知道我强烈渴求着 {ACTIVE}的 {CUM}..."
+    ],
+    "2nd Person" :
+    [
+        "你伸出手去玩弄 {ACTIVE}的睾丸. 它们是如此地厚重,  里面一定装满了 {JUICY} {CUM}!",
+        "你一想到马上就可以喝到这些蛋蛋里的饮料嘴唇都湿了...",
+        "当你伸手轻柔地抚摸它的蛋蛋时  {ACTIVE} 全身一震.",
+        "它看上去如此享受. 也许它不会在意你再... 深入一点?",
+        " {ACTIVE} 并不明白人兽性交是多么淫乱, 它只知道把积攒已久的精液射出来感觉不错!",
+        "你想知道这些蛋蛋里的液体究竟有没有在一个人类女孩的身体中发泄出来过?",
+        "当它因为你熟练的口技和爱抚而射光那些 {THICK} {CUM}时究竟是怎么样的感觉呢...",
+        "哇天呐! 这气味让你变得更加狂野了! 也许你再爱抚一会就该进入正戏了...",
+        "这东西都快和巨人的一样大了!当它突然喷出那么多{CUM} 时, 该是多么壮观?",
+        "姆嗯... 你还不知道你将要做什么, 但你知道你强烈渴求着 {ACTIVE}的 {CUM}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} reaches out to cup the {ACTIVE}'s balls. They must be full of {JUICY} {CUM}!",
+        "The {ACTIVE} twitches as {PRIMARY} reaches out and touches his balls.",
+        "He seems to enjoy this. Maybe he wouldn't mind if {PRIMARY} went a bit... further?",
+        "The {ACTIVE} doesn't know how naughty bestiality is, he only knows how good it feels to empty his balls!",
+        "Have these balls have ever unloaded on a human girl before?",
+        "How would it look to have those big balls empty their {THICK} {CUM} as {PRIMARY} sucks and swallows...",
+        "They're gigantic! What must the force be like, to ejaculate so much {CUM}?"
+    ]
+}

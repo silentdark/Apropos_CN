@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "我吞吐着{ACTIVE}{TASTY}{COCK}，极度渴望着{MOUTH}被填满{CUM}.",
+		"我不想停下,我喜欢{COCK}在我的{MOUTH}里的感觉.",
+		"我爱上了{COCK}在我的{MOUTH}里跳动的感觉.",
+		"我开始喜欢上了这种味道,真的想仔细品尝一下.",
+		"我吮吸着{ACTIVE}{TASTY}{COCK}，速度越来越快，水声也越来越大.",
+		"我用舌头在他的{COCK}上打着圈,并享受着这种感觉.",
+		"我爱上了{TASTY}{COCK}在我的{MOUTH}来回进出的感觉.我的{BOOBS}也随之快速跳动着.",
+		"在{ACTIVE}的要求下,我更加卖力地用{MOUTH}吞吐着{TASTY}{COCK}.",
+		"我要你射在我的{MOUTH}里, 好么~?",
+		"能有一只{TASTY}{COCK}在我的{MOUTH}里搅拌的感觉真好...",
+		"我开始加快速度，用{MOUTH}更深地吞吐着{ACTIVE}的{COCK}.",
+		"我快速地摇晃着脑袋,嘴唇与{COCK}来回摩擦发出了巨大的声响."
+    ],
+    "2nd Person" :
+    [
+        "你吞吐着{ACTIVE}{TASTY}{COCK}，极度渴望着{MOUTH}被填满{CUM}.",
+		"你不想停下,你喜欢{COCK}在你的{MOUTH}里的感觉.",
+		"你爱上了{COCK}在你的{MOUTH}里跳动的感觉.",
+		"你开始喜欢上了这种味道,真的想仔细品尝一下.",
+		"你吮吸着{ACTIVE}{TASTY}{COCK}，速度越来越快，水声也越来越大.",
+		"你用舌头在他的{COCK}上打着圈,并享受着这种感觉.",
+		"你爱上了{TASTY}{COCK}在你的{MOUTH}来回进出的感觉.你的{BOOBS}也随之快速跳动着.",
+		"在{ACTIVE}的要求下,你更加卖力地用{MOUTH}吞吐着{TASTY}{COCK}.",
+		"我要你射在我的{MOUTH}里, 好么~?你祈求着",
+		"能有一只{TASTY}{COCK}在你的{MOUTH}里搅拌的感觉真好...",
+		"你开始加快速度，用{MOUTH}更深地吞吐着{ACTIVE}的{COCK}.",
+		"你快速地摇晃着脑袋,嘴唇与{COCK}来回摩擦发出了巨大的声响."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}吞吐着{ACTIVE}{TASTY}{COCK}，极度渴望着{MOUTH}被填满{CUM}.",
+		"{PRIMARY}不想停下,{PRIMARY}喜欢{COCK}在{PRIMARY}的{MOUTH}里的感觉.",
+		"{PRIMARY}爱上了{COCK}在{PRIMARY}的{MOUTH}里跳动的感觉.",
+		"{PRIMARY}开始喜欢上了这种味道,真的想仔细品尝一下.",
+		"{PRIMARY}吮吸着{ACTIVE}{TASTY}{COCK}，速度越来越快，水声也越来越大.",
+		"{PRIMARY}用舌头在他的{COCK}上打着圈,并享受着这种感觉.",
+		"{PRIMARY}爱上了{TASTY}{COCK}在{PRIMARY}的{MOUTH}来回进出的感觉.{PRIMARY}的{BOOBS}也随之快速跳动着.",
+		"在{ACTIVE}的要求下,{PRIMARY}更加卖力地用{MOUTH}吞吐着{TASTY}{COCK}.",
+		"我要你射在我的{MOUTH}里, 好么~?{PRIMARY}祈求着",
+		"能有一只{TASTY}{COCK}在{PRIMARY}的{MOUTH}里搅拌的感觉真好...",
+		"{PRIMARY}开始加快速度，用{MOUTH}更深地吞吐着{ACTIVE}的{COCK}.",
+		"{PRIMARY}快速地摇晃着脑袋,嘴唇与{COCK}来回摩擦发出了巨大的声响."
+    ]
+}

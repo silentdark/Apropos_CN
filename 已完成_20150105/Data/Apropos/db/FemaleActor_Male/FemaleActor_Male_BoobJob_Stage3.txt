@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "我轻轻地揉捏着我的乳头.{ACTIVE}用他的{COCK}在我的{BOOBS}中间抽插着.",
+        "好想让所有人都来摸我的{BOOBS}~~",
+        "射之前要告诉我哦~~~我会张开嘴巴的~~~.",
+        "我喜欢{HUGE}{COCK}在我的{BOOBS}之前摩擦的感觉~~~.",
+        "好可爱呀~~{COCK}在我的{BOOBS}里进出着~.射出来的时候一定更好玩~",
+        "我扭动着我赤裸的身体,用{BOOBS}包裹着{HUGE}{COCK}.",
+        "我张着嘴巴，{BOOBS}上下套弄着他的{COCK},全身上下都好兴奋~~~.",
+        "你想射在我的{BOOBS}上么~ 说着就更加快速地套弄着{ACTIVE}的{COCK}.",
+		"我欲火已经无法控制,我用力地揉捏着我的乳头,看着{COCK}在我的{BOOBS}中进出.",
+        "今天我想让我全身都沾满{CUM}的味道~~~"
+    ],
+    "2nd Person" :
+    [
+        "你轻轻地揉捏着你的乳头.{ACTIVE}用他的{COCK}在你的{BOOBS}中间抽插着.",
+        "你想让所有人都来摸你的{BOOBS}~~",
+        "射之前要告诉我哦~~~我会张开嘴巴的~~~.你轻声说着",
+        "你喜欢{HUGE}{COCK}在你的{BOOBS}之前摩擦的感觉~~~.",
+        "好可爱呀~~{COCK}在你的{BOOBS}里进出着~.射出来的时候一定更好玩~",
+        "你扭动着你赤裸的身体,用{BOOBS}包裹着{HUGE}{COCK}.",
+        "你张着嘴巴，{BOOBS}上下套弄着他的{COCK},全身上下都好兴奋~~~.",
+        "你想射在我的{BOOBS}上么~ 你一边说着一边加快速地套弄着{ACTIVE}的{COCK}.",
+		"你欲火已经无法控制,你用力地揉捏着你的乳头,看着{COCK}在你的{BOOBS}中进出.",
+        "今天你决定让全身都沾满{CUM}的味道~~~"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}轻轻地揉捏着{PRIMARY}的乳头.{ACTIVE}用他的{COCK}在{PRIMARY}的{BOOBS}中间抽插着.",
+        "{PRIMARY}想让所有人都来摸{PRIMARY}的{BOOBS}~~",
+        "射之前要告诉我哦~~~我会张开嘴巴的~~~.{PRIMARY}轻声说着",
+        "{PRIMARY}喜欢{HUGE}{COCK}在{PRIMARY}的{BOOBS}之前摩擦的感觉~~~.",
+        "好可爱呀~~{COCK}在{PRIMARY}的{BOOBS}里进出着~.射出来的时候一定更好玩~",
+        "{PRIMARY}扭动着{PRIMARY}赤裸的身体,用{BOOBS}包裹着{HUGE}{COCK}.",
+        "{PRIMARY}张着嘴巴，{BOOBS}上下套弄着他的{COCK},全身上下都好兴奋~~~.",
+        "{PRIMARY}想射在我的{BOOBS}上么~ {PRIMARY}一边说着一边加快速地套弄着{ACTIVE}的{COCK}.",
+		"{PRIMARY}欲火已经无法控制,{PRIMARY}用力地揉捏着{PRIMARY}的乳头,看着{COCK}在{PRIMARY}的{BOOBS}中进出.",
+        "今天{PRIMARY}决定让全身都沾满{CUM}的味道~~~"
+    ]
+}
