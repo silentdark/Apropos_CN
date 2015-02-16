@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I feel {ACTIVE}'s {THICK} load squirt onto my feet and toes.",
+        "I feel {ACTIVE}'s {PENIS} throb between my feet, and then his {THICK} {CUM} splatter across my feet.",
+        "Mmm... I can feel his {THICK} {CUM} spurting over my bare soles... Dripping all over my toes...",
+        "I glance at him, my eyelids low and my mouth gasping as he spurts {SLOPPY} {CUM} over my feet.",
+        "Everything is coated in {ACTIVE}'s {SLOPPY} {CUM}, covering my bare feet.",
+        "I feel {ACTIVE} pulse and throb between my thin ankles, before my feet are covered in {CUM}.",
+        "I moan as I feel his {SLOPPY} {CUM} dripping between my toes."
+    ],
+    "2nd Person" :
+    [
+        "You feel {ACTIVE}'s {THICK} load squirt onto your feet and toes.",
+        "You feel {ACTIVE}'s {PENIS} throb between your feet, and then his {THICK} {CUM} splatter across your feet.",
+        "Mmm... You can feel his {THICK} {CUM} spurting over your bare soles... Dripping all over your toes...",
+        "You glance at him, your eyelids low and your mouth gasping as he spurts {SLOPPY} {CUM} over your feet.",
+        "Everything is coated in {ACTIVE}'s {SLOPPY} {CUM}, covering your bare feet.",
+        "You feel {ACTIVE} pulse between your thin ankles, before your feet are covered in {CUM}.",
+        "You moan as you feel his {SLOPPY} {CUM} dripping between your toes."
+    ],
+    "3rd Person" :
+    [
+        "The sight of {PRIMARY}'s pretty feet, drenched in {SLOPPY} {CUM}... It's so hot...",
+        "{PRIMARY}'s feet look so beautiful, covered in {ACTIVE}'s {SLOPPY} {CUM}.",
+        "({PRIMARY}) Ahh... No... You could have cum inside me...",
+        "{PRIMARY}'s {CUM}-covered feet look so pretty... Maybe she'll want her toes sucked?"
+    ]
+}
