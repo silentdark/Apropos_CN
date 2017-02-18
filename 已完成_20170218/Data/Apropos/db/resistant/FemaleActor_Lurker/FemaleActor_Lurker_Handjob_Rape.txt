@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}用一只手抓住赤裸和惊恐的我，我抵抗他的抓握，但没有任何用处.",
+        "我颤抖和扭动着，试图逃跑，远离{ACTIVE}的{BEAST}{COCK}.",
+        "哦上帝，它勃起了，它真的对我产生性趣了？我不可能容纳的了那个东西!",
+        "{ACTIVE}无情地将我抓紧，我的无助开始让我的{PUSSY}和乳头刺痛..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} grabs you with one hand, naked and scared. You struggle against his grip, but it's no use.",
+        "You squirm and twist, trying to escape, to get away from the {ACTIVE}'s {BEAST} {COCK}.",
+        "Oh Gods, it's getting hard! Is it really turned on by you? There's no way you can take that!",
+        "You're merciless in the grip of this {ACTIVE}. Your helplessness starts to make your {PUSSY} and nipples tingle..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} scoops up {PRIMARY}, her tiny naked form dwarfed by the beast.",
+        "{PRIMARY} struggles against the {ACTIVE}'s grip, but it's clear she's going to get fucked.",
+        "Even though she's struggling, {PRIMARY}'s legs are parted slightly. Does that mean...?"
+    ]
+}

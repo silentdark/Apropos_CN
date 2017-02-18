@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "我的腿被{ACTIVE}的大手强行被迫分开，它毫无负罪地摸着我.",
+        "哦上帝，他在抚摸我!他想让我湿了！它不会试图草我吧!是吗?!",
+        "Oh my goodness, 看看他的手指有多大，它们就像鸡巴一样! Mmmmmm ahhhhh!",
+        "{ACTIVE}一直抚摸我,我的阴蒂抽动着，我的屁眼在收缩.不行了...",
+        "我疯狂地扭动，不停地撬我腰上的手指.",
+        "Ahhh! Mmmmmm... 上帝啊... 我要高潮了!不要啊!"
+    ],
+    "2nd Person" :
+    [
+        "Your legs are forced apart by the {ACTIVE}'s massive hand, as he gropes you with impunity.",
+        "Oh Gods, he's stroking you! He's trying to get you wet! He's not gonna try to fuck you is he?!",
+        "Oh my goodness, look how big his fingers are, they're like cocks! Mmmmmm ahhhhh!",
+        "The {ACTIVE} strokes you all the way, your clit throbbing and your asshole puckering. This is too much...",
+        "You buck and jerk wildly, unable to stay still to pry his fingers from your waist.",
+        "Ahhh! Mmmmmm... Oh Gods... You're about to cum! You don't want this!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s struggles even more wildly as the {ACTIVE} starts to finger her.",
+        "The {ACTIVE} must be pretty good, {PRIMARY} is panting and bucking like she's about to cum.",
+        "Does it amuse the {ACTIVE} to watch a little human {BITCH} squeal and squirm like that?"
+    ]
+}

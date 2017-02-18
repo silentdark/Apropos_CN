@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "Faced with this mountain of horse flesh, I feel my knees go weak and my {PUSSY} tingle.",
+        "Oh Gods... Would I even be able to take that thing?",
+        "My thighs are streaked with {CREAM}, and my nipples ache. My chest flushes and my mouth hangs open, panting."
+    ],
+    "2nd Person": [
+        "Faced with this mountain of horse flesh, you feel your knees go weak and your {PUSSY} tingle.",
+        "Oh Gods... Would you even be able to take that thing?",
+        "Your thighs are streaked with {CREAM}, and your nipples ache. Your chest flushes and your mouth hangs open."
+    ],
+    "3rd Person": [
+        "Oh Gods... Would {PRIMARY} even be able to take that thing?"
+    ]
+}

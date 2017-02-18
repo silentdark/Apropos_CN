@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} 牢牢的抓住了我的腰, 打算硬將牠 {BEAST} {COCK} 塞進我的 {ASS}.",
+        "我想要你騎在我身上... 我想像隻發情的野獸一樣瘋狂的被上.",
+        "{ACTIVE} 慢慢的掏出了牠的 {COCK} 瞄準了我的後庭然後插入. 我悶哼一聲然後開始呻吟並享受著快感.",
+        "隨著{ACTIVE} 越來越深入, 我也試著放鬆我的 {ASS} 好讓牠能夠更順利的進入我的身體.",
+        "我翹起我圓潤飽滿、引人遐想的的 {ASS} 毫無防備地等待著我的野獸戀人進入.",
+        "我繃緊身子,感覺一股巨大的力量正在試圖進入我的 {ASS} , 隨後因為那驚人的尺寸進入體內而感到無比的的疼痛.",
+        "因為感覺到龜頭正緊貼著我的屁股,我開始不斷的喘氣. 然而他突然把前半部插入我的身體裡.",
+        "嗯....讓我們來玩一些不一樣的吧 不如我這次試著插妳的{ASS}?",
+        "我打賭很多年輕淫蕩的婊子都被你那 {BEAST} {COCK} 所吸引, 但是她們當人有人願意讓你上她們的 {ASS}?",
+        "我想要你把我摔在地上,然後狠狠的插入我的 {ASS}, 你可以不用憐憫,越粗魯的對待我越好...",
+        "(傻笑) 你這頭野獸居然一直盯著我的屁股! 你喜歡他們嗎?好!你現在可以盡情的使用他們",
+        "拜託溫柔一點...你的尺寸比一般人還大得多了.我不覺得我的{ASS} 可以放得進那東西."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you firmly by the waist, and guides his {BEAST} {COCK} into your {ASS}.",
+        "({PRIMARY}) I want you on top of me. I want to be fucked like an animal.",
+        "The {ACTIVE} slowly shoves his {COCK} past your sphincter and inside. You grunt and then moan in pleasure.",
+        "As the {ACTIVE} presses harder and harder, you relax your {ASS} and he slides inside.",
+        "Your {ASS} juts upwards, round, youthful and flawless, and vulnerably presented for your monstrous lover.",
+        "You tense, feeling immense pressure at your {ASS}, followed by a sharp pain as he forces his way inside.",
+        "You gasp as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about you take me in the {ASS}?",
+        "({PRIMARY}) I bet loads of young girls jump on your {COCK}, but how many let you fuck them in the {ASS}?'",
+        "({PRIMARY}) I want you to throw me to the ground and fuck my {ASS}, hard. Show me no mercy.",
+        "Even a beast is eyeing up your ass! You should let him fuck it!",
+        "({PRIMARY}) You're staring at my ass! You like it? Okay, you can have it!",
+        "({PRIMARY}) Go gently... You're a lot bigger than a normal guy... I'm not sure my {ASS} can take you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} firmly by the waist, and guides his {BEAST} {COCK} into her {ASS}.",
+        "({PRIMARY}) I want you on top of me. I want to be fucked like an animal.",
+        "The {ACTIVE} slowly shoves his {COCK} past {PRIMARY}'s sphincter. {PRIMARY} grunts and moans in pleasure.",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY} relaxes her {ASS} and he slides inside.",
+        "{PRIMARY}'s {ASS} juts upwards, youthful and flawless, and vulnerably presented for her monstrous lover.",
+        "{PRIMARY} gasps as the head nestles between her cheeks. Roughly he pushes the head inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about I take you in the {ASS}?"
+    ]
+}

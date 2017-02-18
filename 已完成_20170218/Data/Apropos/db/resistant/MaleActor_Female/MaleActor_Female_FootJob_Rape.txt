@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "我看著{PRIMARY},她蜷縮著用腳把我推開. 她的腳舒服的碰觸著我的{COCK}...",
+        "{PRIMARY}明顯的忍著淚水,她的雙腿試著安撫並躲著我.",
+        "({ACTIVE})你真的有著一對美腿!用他們讓我爽,我就會讓你走!"
+    ],
+    "2nd Person" :
+    [
+        "你看著{PRIMARY},她蜷縮著用腳把我推開. 她的腳舒服的碰觸著你的{COCK}...",
+        "{PRIMARY}明顯的忍著淚水,她的雙腿試著安撫並躲著你.",
+        "({ACTIVE})你真的有著一對美腿!用他們讓我爽,我就會讓你走!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}赤裸的腳底整個貼在{ACTIVE}結實的胸膛上.",
+        "當一隻腳遊走過他的胸膛,{ACTIVE}的{COCK}因為{PRIMARY}的腳根輕輕的碰觸抽動了.",
+        "{PRIMARY}注視著{ACTIVE}的眼睛,他{MAROUSAL}{COCK}在她面前引人注意的站了起來.",
+        "{PRIMARY}的雙腳大開,讓{ACTIVE}看到她的{PUSSY}因為他有多{FAROUSAL}.",
+        "她赤裸的屁股骯髒下流,{PRIMARY}張開雙腿,因為她{FAROUSAL} {PUSSY}害羞..."
+    ]
+}

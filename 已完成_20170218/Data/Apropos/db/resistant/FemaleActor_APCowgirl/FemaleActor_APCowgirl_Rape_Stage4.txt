@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "我尽全力向下压着, 看来把那个大家伙整个吞掉也不是什么大问题...",
+        "我已经干的意识不清了, 我扭动着屁股反复地坐下去, 只要能让我快乐下去让我干什么都可以.",
+        "({ACTIVE}) 哈! 你感觉到了没有, 你这个{BITCH}?马上我就要到你的子宫里了!",
+        "每次我向下坐去, 我感受到{PENIS} 将我的身体充满, 不断敲击着我子宫前最后的屏障.",
+        "我知道我不该沉迷, 但是我的身心都渴望着{CUM}. 我到底怎么了? 我一边想着一边更努力的向{ACTIVE}的{PENIS}发起攻击.",
+        "我的乳头开始变硬，兴奋的感觉不断向着我的四肢蔓延, 尽管我感到恐惧与屈辱.",
+        "我的意识被快感彻底侵蚀，我知道我应该反抗这快感, 但是我发现我完全屈服于性爱之中, 不能自拔...",
+        "({ACTIVE}) 把你的衣服都给我脱光. 露出你的奶子, 你{WTVAGINAL} {PUSSY}, 你的身体所有的部分. 懂我的意思吗?"
+    ],
+    "2nd Person" :
+    [
+        "You try to lean forward, hoping that it won't be as hard to take the whole thing...",
+        "You start to lose yourself, twisting your hips as you come down, trying to take what pleasure you can.",
+        "({ACTIVE}) Ugh! You can feel that, can't you {BITCH}? I'm gonna be in your womb soon!",
+        "Every time you fall down, you feel his {PENIS} pound into you, knocking at your final barrier.",
+        "You shouldn't, but you want his {CUM}. What's happening to you? You began to ride {ACTIVE}'s {PENIS} harder.",
+        "Your nipples harden and you already feel arousal spreading through your limbs, despite your anger and fear.",
+        "Your mind is in disarray; you should be fighting back, but you find yourself submitting, eager for this...",
+        "({ACTIVE}) Bare everything to me. Your tits, your {WTVAGINAL} {PUSSY}, everything. Do you understand me?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s strokes are heavy, laboured. She won't be able to stay on her feet much longer.",
+        "{PRIMARY} is dripping with sweat, her muscles tight and straining as she continues fucking.",
+        "Every stroke looks deep and painful, and {PRIMARY} grunts every time she comes down.",
+        "({ACTIVE}) You remind me of the last little {BITCH} we had! She's probably still in that troll cave..."
+    ]
+}

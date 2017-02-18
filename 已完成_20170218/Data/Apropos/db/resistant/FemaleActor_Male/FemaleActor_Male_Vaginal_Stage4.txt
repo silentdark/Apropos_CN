@@ -1,0 +1,50 @@
+{
+    "1st Person" :
+    [
+		"{ACTIVE}的{COCK}深深的重击着我的{PUSSY}，我能感觉到{COCK}击打着我的子宫壁",
+		"哦~ 不~太深了~, 已经到底了! 快要刺穿了！~",
+		"我的{PUSSY}已经完全被{ACTIVE}的{COCK}攻占了, 我感觉我快不行了.",
+		"{ACTIVE}重重的{FUCKING}着我,每一次都折磨着我的子宫.",
+		"我{HEAVING}{BOOBS}随着他急速的抽插跳动的越来越激烈.",
+		"我掰着{PUSSY}, 屁股紧紧贴着他的蛋蛋，仅我所能迎合着他{HUGE}{COCK}的抽插.",
+		"{ACTIVE}{HUGE}{COCK}在我的身体里进进出出的感觉太棒了，我想永远被他{FUCKING}.",
+		"我在{ACTIVE}的身上不断起伏,在每一次大力撞击都让我更加兴奋.",
+		"我现在只想要{HUGE}{COCK}填满我的{PUSSY}~~~",
+		"哦~... 哦~... 你的{HUGE}{COCK}都要顶到我的喉咙了~...",
+		"我满脸潮红，{BOOBS}跳动着, 赤裸的身体满是香汗.",
+		"我快要被快感征服了,在刚才的十分钟里{ACTIVE}已经让我到达两次高潮了.",
+		"我感觉到{ACTIVE}快要射了,于是我加大了力度."
+    ],
+    "2nd Person" :
+    [
+		"{ACTIVE}的{COCK}深深的重击着你的{PUSSY}，你能感觉到{COCK}击打着你的子宫壁",
+		"哦~ 不~太深了~, 已经到底了! 快要刺穿了！~你呻吟着",
+		"你的{PUSSY}已经完全被{ACTIVE}的{COCK}攻占了, 你感觉身体快要不行了.",
+		"{ACTIVE}大力的{FUCKING}着你,每一次都折磨着你的子宫.",
+		"你{HEAVING}{BOOBS}随着他急速的抽插跳动的越来越激烈.",
+		"你掰着{PUSSY}, 屁股紧紧贴着他的蛋蛋，仅你所能迎合着他{HUGE}{COCK}的抽插.",
+		"{ACTIVE}{HUGE}{COCK}在你的身体里进进出出的感觉太棒了.你甚至想就这样永远被他{FUCKING}下去.",
+		"你在{ACTIVE}的身上不断起伏,在每一次大力撞击都让你更加兴奋.",
+		"你现在只想要{HUGE}{COCK}填满你的{PUSSY}~~~",
+		"哦~... 哦~... 你的{HUGE}{COCK}都要顶到我的喉咙了~...你呻吟着",
+		"你满脸潮红，{BOOBS}跳动着, 赤裸的身体满是香汗.",
+		"你快要被快感征服了,在刚才的十分钟里{ACTIVE}已经让你到达两次高潮了.",
+		"你感觉到{ACTIVE}快要射了,于是你加大了力度."
+    ],
+    "3rd Person" :
+    [
+		"{ACTIVE}的{COCK}深深的重击着{PRIMARY}的{PUSSY}，{PRIMARY}能感觉到{COCK}击打着{PRIMARY}的子宫壁",
+		"哦~ 不~太深了~, 已经到底了! 快要刺穿了！~{PRIMARY}呻吟着",
+		"{PRIMARY}的{PUSSY}已经完全被{ACTIVE}的{COCK}攻占了, {PRIMARY}感觉身体快要不行了.",
+		"{ACTIVE}大力的{FUCKING}着{PRIMARY},每一次都折磨着{PRIMARY}的子宫.",
+		"{PRIMARY}{HEAVING}{BOOBS}随着他急速的抽插跳动的越来越激烈.",
+		"{PRIMARY}掰着{PUSSY}, 屁股紧紧贴着他的蛋蛋，仅{PRIMARY}所能迎合着他{HUGE}{COCK}的抽插.",
+		"{ACTIVE}{HUGE}{COCK}在{PRIMARY}的身体里进进出出的感觉太棒了.{PRIMARY}甚至想就这样永远被他{FUCKING}下去.",
+		"{PRIMARY}在{ACTIVE}的身上不断起伏,在每一次大力撞击都让{PRIMARY}更加兴奋.",
+		"{PRIMARY}现在只想要{HUGE}{COCK}填满{PRIMARY}的{PUSSY}~~~",
+		"哦~... 哦~... 你的{HUGE}{COCK}都要顶到我的喉咙了~...{PRIMARY}呻吟着",
+		"{PRIMARY}满脸潮红，{BOOBS}跳动着, 赤裸的身体满是香汗.",
+		"{PRIMARY}快要被快感征服了,在刚才的十分钟里{ACTIVE}已经让{PRIMARY}到达两次高潮了.",
+		"{PRIMARY}感觉到{ACTIVE}快要射了,于是{PRIMARY}加大了力度."
+    ]
+}

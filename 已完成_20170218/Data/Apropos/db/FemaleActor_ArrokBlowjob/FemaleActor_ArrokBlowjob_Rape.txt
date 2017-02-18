@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) 全含住喽, 你个{BITCH},好好给我动起来 !",
+        "我跪在着肮脏的地方, 羞怯地将{ACTIVE}{SALTY} {PENIS}放进嘴里.",
+        "只要我现在努力让这家伙射出来,我就能保住我的{PUSSY}和{ASS}...",
+        "我强忍着恶心的感觉，舔舐着{ACTIVE}的睾丸 ，不断摆弄着{PENIS}.",
+        "{ACTIVE}的{PENIS}是那么{SALTY}, 我难以忍受这个怪物在我的嘴里，我感觉很恶心."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Get to it, {BITCH}, and you better make it good!",
+        "You kneel down in the dirt, and timidly take the {ACTIVE}'s {SALTY} {PENIS} into your mouth.",
+        "You need to make this bastard cum, so he won't want to fuck your {PUSSY} or {ASS}...",
+        "You fight back your revulsion as you tongue the {ACTIVE}'s balls as you steadily wank his {PENIS}.",
+        "The {ACTIVE}'s {PENIS} is {SALTY}, and you're not able to keep it in your mouth for long before you feel sick."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} kneels down and reluctantly starts to pleasure the {ACTIVE}.",
+        "Oh my... In that position, someone could just come up behind {PRIMARY} and fuck her {PUSSY}!",
+        "({ACTIVE}) You better get those balls in your mouth, {BITCH}!",
+        "Clearly resigned, {PRIMARY} drops down and immediately starts to work the {ACTIVE}'s {COCK} and balls."
+    ]
+}

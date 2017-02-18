@@ -1,0 +1,22 @@
+{
+    "slutty": 
+    {
+    	"Weight": 2
+    },
+    "bdsm":  
+    {
+    	"Weight": 4
+    },
+    "loving":  
+    {
+    	"Weight": 1
+    },
+    "hardcore":  
+    {
+    	"Weight": 1
+    },
+    "resistant":
+    {
+        "Weight": 10
+    }
+}

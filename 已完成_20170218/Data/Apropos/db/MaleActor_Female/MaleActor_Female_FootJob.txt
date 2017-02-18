@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "當我看著{PRIMARY}張開的大腿和她臉上淫蕩的眼神,我的{COCK}硬了起來.",
+        "{PRIMARY}柔軟的雙腳在我的胸口遊走.當她注視著我的{COCK},它抽搐了起來.",
+        "我可以看到{PRIMARY}的{PUSSY},它已經是{FAROUSAL}..."
+    ],
+    "2nd Person" :
+    [
+        "當你看著{PRIMARY}張開的大腿和她臉上淫蕩的眼神,你的{COCK}硬了起來.",
+        "{PRIMARY}柔軟的雙腳在你的胸口遊走.當她注視著你的{COCK},它抽搐了起來.",
+        "你可以看到{PRIMARY}的{PUSSY},它已經是{FAROUSAL}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}赤裸的腳底整個貼在{ACTIVE}結實的胸膛上.",
+        "當一隻腳遊走過他的胸膛,{ACTIVE}的{COCK}因為{PRIMARY}的腳根輕輕的碰觸抽動了.",
+        "{PRIMARY}注視著{ACTIVE}的眼睛,他{MAROUSAL}{COCK}在她面前引人注意的站了起來.",
+        "{PRIMARY}的雙腳大開,讓{ACTIVE}看到她的{PUSSY}因為他有多{FAROUSAL}.",
+        "她赤裸的屁股骯髒下流,{PRIMARY}在{ACTIVE}面前張開了她的{PUSSY}.",
+        "我可以在用他們開幹前先愛撫一下嗎?"
+    ]
+}

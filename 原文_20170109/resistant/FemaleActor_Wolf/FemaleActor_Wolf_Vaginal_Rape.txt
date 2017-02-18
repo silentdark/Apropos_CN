@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Why is this {ACTIVE} getting aroused? It's gonna... no way... going to... rape me?",
+        "No way... it went in! A {ACTIVE}'s {COCK}!",
+        "Before I can take it in my {MOUTH}, the beast mounts me.",
+        "The {ACTIVE} slides its {COCK} inside me. I gasp and brace myself.",
+        "I scream for help as the {BEAST} cock-head enters me, my cries vanishing into the dark skies above.",
+        "The {ACTIVE}'s swelling knot pops and stretches my labia as it drags through them again and again.",
+        "Before I have time to think, the horny beast has leapt on me, mounting me like a bitch.",
+        "The animal's {BEAST} cock is completely erect, and dripping pre-cum. This is really going to happen...",
+        "I can't let this happen... Not with a {BEAST}...",
+        "No... that slimy thing's rubbing against me!",
+        "A hungry beast looming over me, I'm desperate. I spread my legs and offer myself.",
+        "Panicked and afraid for my life, I freeze as the beast's {COCK} moves toward my {PUSSY}.",
+        "The {ACTIVE} knocks me to the ground, mounts me and fucks me. I howl at the injustice."
+    ],
+    "2nd Person": [
+        "Why is this {ACTIVE} getting aroused? It's gonna... no way... going to... rape you?",
+        "No way... it went in! A {ACTIVE}'s {COCK}!",
+        "Before you can take it in your {MOUTH}, the beast mounts you.",
+        "The {ACTIVE} slides its {COCK} inside you. You gasp and brace yourself.",
+        "You scream for help as the {BEAST} cock-head enters you, your cries vanishing into the dark skies above.",
+        "The {ACTIVE}'s swelling knot pops and stretches your labia as it drags through them again and again.",
+        "Before you have time to think, the horny beast has leapt on you, mounting you like a bitch.",
+        "The animal's {BEAST} cock is completely erect, and dripping pre-cum. This is really going to happen...",
+        "You can't let this happen... Not with a {BEAST}...",
+        "No... that slimy thing's rubbing against you!",
+        "A hungry beast looming over you, you're desperate. You spread your legs and offer yourself.",
+        "Panicked and afraid for your life, you freeze as the beast's {COCK} moves toward your {PUSSY}.",
+        "The {ACTIVE} knocks you to the ground, mounts you and fucks you. You howl at the injustice."
+    ],
+    "3rd Person": [
+        "Why is this {ACTIVE} getting aroused? It's gonna... no way... going to... rape {PRIMARY}?",
+        "No way... it went in! A {ACTIVE}'s {COCK}!",
+        "Before {PRIMARY} can take it in her {MOUTH}, the beast mounts her.",
+        "The {ACTIVE} slides its {COCK} inside her. {PRIMARY} gasps and braces herself.",
+        "{PRIMARY} screams for help as the {BEAST} {COCK} enters her, her cries vanishing into the dark skies above.",
+        "The {ACTIVE}'s swelling knot pops and stretches {PRIMARY}'s labia as it drags through them again and again.",
+        "{PRIMARY} removes her clothing and drops to the ground, timidly presenting her {WTVAGINAL} {PUSSY}."
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "1st Person" :
+    [
+        "我用手和膝蓋撐著地板, 在他的猛攻下枉然的穩住自己試著不倒下.",
+        "上帝啊...這實在太大了...這不可能放得進... Nggg! 這樣的尺寸是我從來沒有碰過的....",
+        "({ACTIVE}) 現在就連龍裔也終於了解到我們吸血鬼有多麼尊貴、不凡, 甚至還用她的 {ASS} 來為我們服務!",
+        "({ACTIVE}) 我從來沒想過要征服一名龍裔是這樣容易的一件事. 妳也不過是徒具虛名罷了 !",
+        "我的身體可能是受那生物的魔法所影響, 我的乳頭雖然十分疼痛卻仍舊立了起來.",
+        "當那惡魔把它的 {COCK} 向我的身體抽動時,我不由自主的低聲哭泣著 .",
+        "我繃緊身體開始享受那惡魔的 {COCK} 在我身體裡的每一個抽插.",
+        "吸血鬼的魔法開始在我身體流竄. 雖然我的 {ASS} 彷彿著了火一般的疼痛, 我還是覺得這樣的感覺十分美妙...",
+        "我試著移動我已經開始麻木的 {BOOBS}, 試著不讓我直立的乳頭繼續磨擦地面.",
+        "{ACTIVE}在力氣用盡前仍緩慢的用它的 {COCK} 在我的 {ASS} 抽動了好幾次 .",
+		"好..好舒服..沒想到我的 {ASS}被弄得這麼有感覺 "
+    ],
+    "2nd Person" :
+    [
+        "Your hands and knees braced on the floor, you try vainly to steady yourself as you get fucked even harder.",
+        "Oh Gods, you can't take this, it's too... Nggg! too much for you to handle...",
+        "({ACTIVE}) Even the Dragonborn realises our dominance, and offers her {ASS} to service us!",
+        "({ACTIVE}) I didn't realise the Dragonborn was so easy to subdue. You merely offer yourself up!",
+        "Your body responds to the creature's magic, your nipples bulging painfully, sticking straight out.",
+        "You whimper breathlessly as the demon's {COCK} moves inside you.",
+        "You tense up in pleasure each time the demonic {COCK} pushes forward and disappears inside you.",
+        "The vampire's magic flows through your body. Even though your {ASS} burns with pain, you feel wonderful...",
+        "You push out your tingling {BOOBS}, your erect nipples roughly brushing the ground.",
+        "The {ACTIVE} pumps his {COCK} slowly a few times into your {ASS}, before it really goes to town."
+    ],
+    "3rd Person" :
+    [
+        "Her hands and knees braced on the floor, {PRIMARY} tries vainly to steady herself as she gets fucked harder.",
+        "Oh Gods, {PRIMARY} can't take this, it's too much for her to handle...",
+        "({ACTIVE}) You realise our dominance, and offer your {ASS} to service us!",
+        "({ACTIVE}) Human women are so easy to subdue. You merely offer yourself up!",
+        "{PRIMARY}'s body responds to the creature's magic, her nipples bulging painfully, sticking straight out.",
+        "{PRIMARY} whimpers breathlessly as the demon's {COCK} moves inside her.",
+        "{PRIMARY} tenses up in pleasure each time the demonic {COCK} pushes forward and disappears inside her."
+    ]
+}

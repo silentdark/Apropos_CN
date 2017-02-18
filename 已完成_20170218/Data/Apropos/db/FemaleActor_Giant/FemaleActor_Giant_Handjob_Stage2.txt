@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}的巨手举起我时我的双腿垂了下来.",
+        "这太多了，我试图把{ACTIVE}的手推开，但他太强壮了.",
+        "哦天哪,它的手指比鸡巴更大！它要用一根手指操我吗?更多手指?!",
+        "野兽的{BEAST}手指大力地从我的阴唇摸到我的屁股，我感到一阵高潮已经快来了...",
+        "Mmmm... Ahhh! Ahhh!不!太多了!求你停下!",
+        "当来自{ACTIVE}的手指的力道使我接近高潮的时候，我试图忍耐."
+    ],
+    "2nd Person" :
+    [
+        "Your legs spread as the {ACTIVE}'s massive hand feels you up.",
+        "It's too much, and you try in vain to push the {ACTIVE}'s hand away, but he's too strong.",
+        "Oh my, it's fingers are bigger than cocks! Is it gonna fuck you with one? More than one?!",
+        "The beast's {BEAST} fingers stroke you hard, from your clit to your asshole. You can feel an orgasm already...",
+        "({PRIMARY}) Mmmm... Ahhh! Ahhh! No! It's too much! Please stop!",
+        "You struggle to stay calm as the pressure from the {ACTIVE}'s fingers brings you close to cumming."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} starts feeling {PRIMARY} up. She looks like she's going to cum already.",
+        "The {ACTIVE}'s fingers look huge... How many of them is it going to stick up {PRIMARY}?",
+        "{PRIMARY} squirms as the {ACTIVE} fingers her. Does she want it to stop, or is it just that good?"
+    ]
+}

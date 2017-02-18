@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I drop to my knees, coming face to face with the {ACTIVE}'s {BEAST} {COCK}.",
+        "That's really big. Really, really big. I pause for a moment, trying to remember what I was doing.",
+        "What?! It's getting aroused by me? What is it expecting me to do?",
+        "Its {COCK} is rock hard... Oh my, what does it think I'm going to do? And what will it do if I don't?"
+    ],
+    "2nd Person": [
+        "You drop to your knees, coming face to face with the {ACTIVE}'s {BEAST} {COCK}.",
+        "That's really big. Really, really big. You pause for a moment, trying to remember what you were doing.",
+        "What?! It's getting aroused by you? What is it expecting you to do?",
+        "Its {COCK} is rock hard... Oh your, what does it think you're going to do? And what will it do if you don't?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} drops to her knees, coming face to face with the {ACTIVE}'s {BEAST} {COCK}.",
+        "That's really big. Really, really big. {PRIMARY} pause for a moment, as if she's not sure what to do.",
+        "What?! It's getting aroused by {PRIMARY}? What is it expecting her to do?",
+        "Its {COCK} is rock hard... Oh my, what does it think {PRIMARY}'s going to do? What will it do if she doesn't?"
+    ]
+}

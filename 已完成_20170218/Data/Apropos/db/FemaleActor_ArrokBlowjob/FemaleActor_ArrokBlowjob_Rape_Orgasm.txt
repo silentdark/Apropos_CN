@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "最终{ACTIVE}在我嘴里射了出来，我全身都瘫软了, 我的身体被{SLOPPY} {CUM}所覆盖.",
+        "就在{ACTIVE}射进我的{MOUTH}里前我将肉棒我吐了出来,精液射满了我的面庞 .",
+        "({ACTIVE}) 啊啊啊... 我可没说... 让你停下... 你最好把这些{CUM}清理干净, {BITCH}.",
+        "在我被侵犯之后, 我的头发上满是{CUM}, 我的{PUSSY} 已经 {FAROUSAL}.我应该马上逃离这里...",
+        "我的手感受着肉棒的抽搐, 喷涌而出的{CUM}布满了我整个面颊.",
+        "这种感觉这么刺激... 这么{VILE}... 我已经欲罢不能了..."
+        ],
+    "2nd Person" :
+    [
+        "Relief washes over you as the {ACTIVE} finally cums, covering you in {SLOPPY} {CUM}.",
+        "You narrowly avoid taking the {ACTIVE}'s load in your {MOUTH}, and it shoots right across the your cheek.",
+        "({ACTIVE}) Ahhh... I didn't... say stop... You better clean up that {CUM}, {BITCH}.",
+        "After that, with his {CUM} in your hair, your {PUSSY} is {FAROUSAL}. You need to get away from here first...",
+        "You feel him spasm in your hand, and a fountain of {CUM} erupts right beside your face.",
+        "It's so hot... so {VILE}... you can't get enough of it..."
+    ],
+    "3rd Person" :
+    [
+        "That was lucky, the {ACTIVE} only came across {PRIMARY}'s face and not in her {MOUTH}...",
+        "{PRIMARY} starts to slurp at the {ACTIVE}'s {PENIS} as he cums, licking up {SLOPPY} dribbles.",
+        "The {ACTIVE} grunts and cums, his {SLOPPY} load covering {PRIMARY}'s face and hair."
+    ]
+}

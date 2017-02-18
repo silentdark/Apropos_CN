@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE} 就是这样, 你这公车，自己骑上来!来自己主动受孕!",
+        "我的身体已经向下推到极限了, 我的身体开始慢慢往回收, 最终将他的精液全都吸了出来.",
+        "他的龟头正贴在我的子宫口, 我感受到大量的{CUM}冲刷我的子宫, 我吐着舌头高潮不止.",
+        "他的{PENIS}粗暴的刺穿我的子宫口，我一边颤抖着一边高潮着.",
+        "为了能汲取到他全部的精华, 我全力压在他身上, 疯狂地扭动着.",
+        "即使我高潮了, 我还是不断抽动着身体, 我可要把他完全榨干才行!"
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE} That's it, {BITCH} ride my {COCK}! Take my {CUM}!",
+        "Pushing yourself past your limits, you start to bounce slowly, finally pushing him to climax.",
+        "His cockhead sticking through your cervix, jets of {CUM} shoot into your womb, and you thrash wildly.",
+        "The head of his {PENIS} rubbing through your cervix drives you to a guilty orgasm as you buck.",
+        "In trying to make him cum, you push yourself over the edge as well, and you twist about madly.",
+        "Even as you cum, you fight to make your legs keep you pumping, you need to make him cum too!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks like she's in distress, thrashing about on the {ACTIVE}'s {PENIS}.",
+        "Amazingly, {PRIMARY} looks like she's fucked herself to an orgasm...",
+        "{ACTIVE} explodes inside of {PRIMARY}, but she continues to ride him with a tired, glazed look on her face.",
+        "{PRIMARY}'s knees are skinned and sore looking, but she's obviously too scared to stop.",
+        "{PRIMARY} thrashes about in a panic, and the {ACTIVE} tenses. Poor girl, he's cumming inside her..."
+    ]
+}

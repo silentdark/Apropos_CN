@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}輕聲的啜泣著,因為我用我的{COCK}穿過她的{BOOBS]之間頂在她臉上.",
+        "來吧,{BITCH},讓我們看看你能怎樣用這對{BOOBS}!別讓我失望!",
+        "你最好好好的讓我爽一下,{BITCH},不然我就操你!"
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}輕聲的啜泣著,因為你用你的{COCK}穿過她的{BOOBS]之間頂在她臉上.",
+        "({ACTIVE})來吧,{BITCH},讓我們看看你能怎樣用這對{BOOBS}!別讓我失望!",
+        "({ACTIVE})你最好好好的讓我爽一下,{BITCH},不然我就操你!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}顫抖的看著{ACTIVE}掏出他的{COCK}.希望他只是想要打個奶炮...",
+        "{ACTIVE}要{PRIMARY}脫下衣服,她聽話照做了.",
+        "{PRIMARY}赤裸的站在他身前,讓任何人都可以完整的看到她.",
+        "{PRIMARY}把她的衣服拉到頭上,讓{ACTIVE}自由的進入她{HEAVING}{BOOBS}.",
+        "有些勉強的,{PRIMARY}在{ACTIVE}之前脫了,拋下了她的衣服.",
+        "{ACTIVE}撕下{PRIMARY}的上衣,將她的{BOOBS}完整的暴露在他的視線中.",
+        "肩帶隨著{PRIMARY}的崩潰從肩上滑下,讓她{HEAVING}{BOOBS}曝露出來.",
+        "{ACTIVE}佩服的目瞪口呆因為他現在可以完美的觀賞{PRIMARY}的{HEAVING}{BOOBS}."
+    ]
+}

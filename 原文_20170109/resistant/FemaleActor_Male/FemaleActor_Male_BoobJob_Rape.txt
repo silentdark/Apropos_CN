@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "I shudder as {ACTIVE} reveals his {COCK}. I hope a titfuck is all he has in mind...",
+        "I stand naked before him, completely on display to anyone who can see.",
+        "{ACTIVE} pulls my clothes over my head, giving him free access to my {HEAVING} {BOOBS}.",
+        "{ACTIVE} tears off my top, completely exposing my {BOOBS} to his gaze.",
+        "The straps slide off my shoulder as I collapse, which shows off my {HEAVING} {BOOBS} and erect nipples.",
+        "I see {ACTIVE}'s face go slack-jawed with awe as he now has a perfect look at my {HEAVING} {BOOBS}.",
+        "{ACTIVE} stares at my {HEAVING} {BOOBS}. I burn with shame.",
+        "My top is ripped off, and the {ACTIVE} just keeps staring at my {BOOBS}. I feel exposed...",
+        "My top is torn off, completely exposing my {BOOBS} to {ACTIVE}'s gaze.",
+        "My top is ripped away, showing off my {HEAVING} {BOOBS} and erect nipples.",
+        "I shudder as {ACTIVE} begins groping my {BOOBS}.",
+        "{ACTIVE} tears off my top, and squeezes my {BOOBS} painfully tight."
+    ],
+    "2nd Person": [
+        "You shudder as {ACTIVE} reveals his {COCK}. You hope a titfuck is all he has in mind...",
+        "You stand naked before him, completely on display to anyone who can see.",
+        "{ACTIVE} pulls your clothes over your head, giving him free access to your {HEAVING} {BOOBS}.",
+        "{ACTIVE} tears off your top, completely exposing your {BOOBS} to his gaze.",
+        "The straps slide off your shoulder as you collapse, which shows off your {HEAVING} {BOOBS} and erect nipples.",
+        "You see {ACTIVE}'s face go slack-jawed with awe as he now has a perfect look at your {HEAVING} {BOOBS}.",
+        "{ACTIVE} stares at your {HEAVING} {BOOBS}. You burn with shame.",
+        "Your top is ripped off, and {ACTIVE} just keeps staring at your {BOOBS}. You feel exposed...",
+        "Your top is torn off, completely exposing your {BOOBS} to {ACTIVE}'s gaze.",
+        "Your top is ripped away, showing off your {HEAVING} {BOOBS} and erect nipples.",
+        "You shudder as {ACTIVE} begins groping your {BOOBS}.",
+        "{ACTIVE} tears off my top, and squeezes your {BOOBS} painfully tight."
+    ],
+    "3rd Person": [
+        "{PRIMARY} shudders as {ACTIVE} reveals his {COCK}. Hopefully a titfuck is all he has in mind...",
+        "{PRIMARY} stands naked before him, completely on display to anyone who can see.",
+        "{ACTIVE} pulls {PRIMARY}'s clothes over her head, giving him free access to her {HEAVING} {BOOBS}.",
+        "{ACTIVE} tears off {PRIMARY}'s top, completely exposing her {BOOBS} to his gaze.",
+        "The straps slide off her shoulder as {PRIMARY} collapses, which shows off her {HEAVING} {BOOBS}.",
+        "{ACTIVE}'s face goes slack-jawed with awe as he now has a perfect look at {PRIMARY}'s {HEAVING} {BOOBS}."
+    ]
+}

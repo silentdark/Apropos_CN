@@ -1,0 +1,48 @@
+{
+    "1st Person" :
+    [
+        "我的手指已經插入土中,腳趾也因為疼痛而蜷縮在一起,而那異物仍持續的進出我的 {ASS}.",
+        "在慾望和性愛裡面瘋狂, {ACTIVE} 似乎快要去了",
+        "Ohh yeah,就是這樣! 用各種姿勢繼續上我!",
+        "當他的{COCK} 塞滿我的 {ASS} 時我想我更確定他的那話兒真的超過一英呎長.",
+        "我想要感覺到 {CUM} 在我體內.",
+        "我在隨著野獸一次一次的蹂躪而帶來的快感中大哭.",
+        "Ugh! 就是那! 就是插那裡! 他插得如此深. 如果我讓他進入我的 {PUSSY}, 牠甚至會撞到我的子宮...",
+        "我弓起背蜷縮著身體,因為終於得回了身體的自由喜極而泣的大哭著.",
+        "Ohhh! 就是這樣.... huuugh... 繼續! Aahhhh! 我想要你繼續這麼做!",
+        "我發現自己居然因為那激烈的衝撞而接近高潮了.",
+        "在經歷了幾分鐘最激烈的抽動後, 我發現高潮正一波波向我襲來.",
+        "當我又再一次去了以後,我發現自己情不自禁地將屁股挪向那隻野獸.",
+        "因為高潮的到來而不住呻吟, 淚水不斷的滑落我的臉頰,我又去了一次....",
+        "牠絲毫沒有放慢速度,一波波的持續在我體內抽動,讓我緊實的{ASS} 無止盡的高潮}.",
+        "在慾望和性愛裡面瘋狂, {ACTIVE} 似乎快要去了"
+    ],
+    "2nd Person" :
+    [
+        "Your fingers dig into the ground and your toes curl in pleasure as the knot is forced into your {ASS}.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "({PRIMARY}) Ohh yeah, that's it! Drive it in all the way!",
+        "You think you're even more determined than he is to get every last inch of {COCK} jammed in your {ASS}.",
+        "You want to feel the beast {CUM} inside you.",
+        "You cry out in pleasure as the beast ravages you again and again.",
+        "Ugh! It's in! The knot's in! He's so deep... If you'd taken him in your {PUSSY}, he'd be past your cervix...",
+        "Your body tenses, your back arching and you let out a cry of ecstasy as your body takes control.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You find yourself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking you've ever experienced, you feel the climax wash over you.",
+        "As you cum again, you find yourself pushing your hips back into the beast.",
+        "Moaning as waves of orgasm roll over you, tears streaming down your face, you continue to cum.",
+        "It doesn't slow down, continuing to thrust into you, bringing orgasm after orgasm from your {WTANAL} {ASS}.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s fingers dig into the ground and her toes curl in pleasure as the knot is forced into her {ASS}.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "({PRIMARY}) Ohh yeah, that's it! Drive it in all the way!",
+        "{PRIMARY} seems even more determined than he is to get every last inch of {COCK} jammed in her {ASS}.",
+        "{PRIMARY} cries out in pleasure as the beast ravages her again and again.",
+        "It's in! The knot's in! He's so deep... If {PRIMARY}'d taken him in her {PUSSY}, he'd be past her cervix...",
+        "{PRIMARY}'s body tenses, her back arching and she lets out a cry of ecstasy as her body takes control."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}把她的腳板合在一起,用它們幫我的{COCK}打槍.",
+        "當她張開她的大腿,我可以看見{PRIMARY}的{PUSSY}.小{BITCH}已經變濕啦!",
+        "({PRIMARY})這...這樣行嗎?你喜歡這樣嗎?"
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}把她的腳板合在一起,用它們幫你的{COCK}打槍.",
+        "當她張開她的大腿,你可以看見{PRIMARY}的{PUSSY}.小{BITCH}已經變濕啦!",
+        "({PRIMARY})這...這樣行嗎?你喜歡這樣嗎?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}用她的腳板緩慢的搓揉著混蛋{ACTIVE}的{HUGE}{COCK}.",
+        "{PRIMARY}把雙腳合在一起來服侍混蛋{ACTIVE}的{COCK}.",
+        "這個姿勢讓{PRIMARY}的{FAROUSAL}{PUSSY}開的大大的,讓每個想看的人都能看的清清楚楚...",
+        "({PRIMARY})你想要全射在我的腳上嗎?你想要看你的{CUM}從我的腳趾間嘩啦嘩啦的流下來?",
+        "什麼時候{PRIMARY}變成這種變態了...?"
+    ]
+}

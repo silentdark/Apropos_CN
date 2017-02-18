@@ -1,0 +1,39 @@
+{
+    "1st Person" :
+    [
+        "This brute's {HUGE} {PENIS} feels hot and hard between my {BOOBS}.",
+        "It's humiliating to have my {BOOBS} wrapped around my rapist's {PENIS}",
+        "I shudder as my attacker reveals his {COCK}. I hope a titfuck is all he has in mind...",
+        "I stand naked before him, completely on display to anyone who can see.",
+        "My attacker pulls my clothes over my head, giving him free access to my {HEAVING} {BOOBS}.",
+        "The brute tears off my top, completely exposing my {BOOBS} to his gaze.",
+        "The straps slide off my shoulder as I collapse, which shows off my {HEAVING} {BOOBS} and erect nipples.",
+        "I burn with shame as my attacker stares at my {HEAVING} {BOOBS}.",
+        "My top is ripped off, and my attacker just keeps staring at my {BOOBS}. I feel exposed...",
+        "My top is torn off, completely exposing my {BOOBS}."
+    ],
+    "2nd Person" :
+    [
+        "The brute's {HUGE} {PENIS} feels hot and hard between your {BOOBS}.",
+        "It's humiliating to have your {BOOBS} wrapped around your rapist's {PENIS}",
+        "You shudder as your attacker reveals his {COCK}. You hope a titfuck is all he has in mind...",
+        "You stand naked before him, completely on display to anyone who can see.",
+        "Your attacker pulls your clothes over your head, giving him free access to your {HEAVING} {BOOBS}.",
+        "The brute tears off your top, completely exposing your {BOOBS} to his gaze.",
+        "The straps slide off your shoulder as you collapse, which shows off your {HEAVING} {BOOBS} and erect nipples.",
+        "You burn with shame as your attacker stares at your {HEAVING} {BOOBS}.",
+        "Your top is ripped off, and your attacker just keeps staring at your {BOOBS}. You feel exposed...",
+        "Your top is torn off, completely exposing your {BOOBS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} shudders as {ACTIVE} reveals his {COCK}. Hopefully a titfuck is all he has in mind...",
+        "{PRIMARY} stands naked before him, completely on display to anyone who can see.",
+        "{ACTIVE} pulls {PRIMARY}'s clothes over her head, giving him free access to her {HEAVING} {BOOBS}.",
+        "{ACTIVE} tears off {PRIMARY}'s top, completely exposing her {BOOBS} to his gaze.",
+        "The straps slide off her shoulder as {PRIMARY} collapses, which shows off her {HEAVING} {BOOBS}.",
+        "{ACTIVE}'s face goes slack-jawed with awe as he now has a perfect look at {PRIMARY}'s {HEAVING} {BOOBS}.",
+        "{PRIMARY} looks embarassed to be topless in front of that bastard.",
+        "It must be humiliating for {PRIMARY} to have her {BOOBS} wrapped around her rapist's {PENIS}."
+    ]
+}

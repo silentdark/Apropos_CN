@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "我怀疑这是否意味着{ACTIVE}就是那种喜欢玩弄自己{ASS}的女孩？",
+        "（{ACTIVE}）想要{COCK}吗，{BITCH}？这个{COCK}就是为你准备的！"
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

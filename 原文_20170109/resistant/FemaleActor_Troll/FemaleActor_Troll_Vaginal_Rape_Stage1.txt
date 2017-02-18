@@ -1,0 +1,65 @@
+{
+    "1st Person" :
+    [
+        "My legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over me.",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches me going on.",
+        "My heart is racing, I can't escape, this {ACTIVE} can do whatever it wants to me.",
+        "I grunt as I am impaled on the {ACTIVE}, I didn't know I could take so much dick.",
+        "My attacker's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, ready to ravage my {PUSSY}.",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as it descends upon me.",
+        "Naked and shivering, I am exposed to the monstrous lusts of this beast.",
+        "I'm paralyzed with fear as the {ACTIVE} descends on me, feeling sick at what is about to happen.",
+        "I'm bruised and naked, about to be brutally raped by an animal.",
+        "Its {COCK} is far too big for me, but that doesn't stop the {ACTIVE} from pushing it inside me.",
+        "My eyes are drawn immediately down to the {BEAST}, 18 inch long {COCK} that now lays across my stomach.",
+        "I can only watch in horror as the {BEAST} {COCK} aligns with my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides me wide open and plugs me fully with its dripping mass.",
+        "The beast's {COCK} is {BEAST}, and as thick as my arm... No way... Can it really be thinking...?",
+        "As my attacker looms over my beaten body, I spy its {COCK}; {HUGE}, {BEAST} and erect. Oh my... it can't...",
+        "Beaten, I stare in horror at the {HUGE} erection towering over me.",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {COCK} slide up inside of me.",
+        "It's going to fuck me whether I want it to or not.",
+        "Pinning me to the ground with one huge hand, it spreads me wide open with the other.",
+        "The {ACTIVE} rips my clothes off, ready to mate with me.",
+        "The {ACTIVE} roughly yanks my legs apart and thrusts its {COCK} into my {PUSSY}."
+
+    ],
+    "2nd Person" :
+    [
+        "Your legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over you.",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches you going on.",
+        "Your heart is racing, you can't escape, this {ACTIVE} can do whatever it wants to you.",
+        "You grunt as you are impaled on the {ACTIVE}, you didn't know you could take so much dick.",
+        "Your attacker's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, ready to ravage your {PUSSY}.",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as it descends upon you.",
+        "Naked and shivering, you are exposed to the monstrous lusts of this beast.",
+        "You're paralyzed with fear as the {ACTIVE} descends on you, feeling sick at what is about to happen.",
+        "You're bruised and naked, about to be brutally raped by an animal.",
+        "Its {COCK} is far too big for you, but that doesn't stop the {ACTIVE} from pushing it inside you.",
+        "Your eyes are drawn immediately down to the {BEAST}, 18 inch long {COCK} that now lays across your stomach.",
+        "You can only watch in horror as the {BEAST} {COCK} aligns with your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its dripping mass.",
+        "The beast's {COCK} is {BEAST}, and as thick as your arm... No way... Can it really be thinking...?",
+        "As your attacker looms over you, you spy its {COCK}; {HUGE}, {BEAST} and erect. Oh my... it can't...",
+        "Beaten, you stare in horror at the {HUGE} erection towering over you.",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {COCK} slide up inside of you.",
+        "It's going to fuck you whether you want it to or not.",
+        "Pinning you to the ground with one huge hand, it spreads you wide open with the other.",
+        "The {ACTIVE} rips your clothes off, ready to mate with you.",
+        "The {ACTIVE} roughly yanks your legs apart and thrusts its {COCK} into your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over her.",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches {PRIMARY} going on.",
+        "{PRIMARY} can't escape, this {ACTIVE} can do whatever it wants to her.",
+        "{PRIMARY} grunts as she's impaled on the {ACTIVE}, it's amazing that she can take so much dick.",
+        "{PRIMARY}'s attacker's {COCK} is as angry looking as the {ACTIVE} himself, ready to ravage her {PUSSY}.",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as it descends upon {PRIMARY}.",
+        "Naked and shivering, {PRIMARY} is exposed to the monstrous lusts of this beast.",
+        "{PRIMARY}'s bruised and naked, about to be brutally raped by an animal.",
+        "Its {COCK} is far too big for {PRIMARY}, but that doesn't stop the {ACTIVE} from pushing it inside her.",
+        "{PRIMARY} can only watch in horror as the {BEAST} {COCK} aligns with her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides {PRIMARY} wide open and plugs her fully with its dripping mass."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "Oww!!哦上帝!它们就这样滑进去了!我在被{ACTIVE}的手指草!",
+        "我喘气和抽泣着，被{BEAST}的两只手指坚定地草着，每个都比一只鸡巴还要大.",
+        "呃......它是想要扩张我吗？来... ...啊！来容下它的{COCK}?",
+        "那野兽的手指在我里面令人痛苦地抽动，我的整个身体都瘫软了，痛楚一波波的袭来.",
+        "{BEAST}的手指在我体内强烈地拉伸着我,我剧烈地高潮了.",
+        "即使我在野兽的手指上潮吹了，我我向下注视它的{COCK}，那东西依然在勃起..."
+    ],
+    "2nd Person" :
+    [
+        "Oww!! Oh Gods! They just slipped in! You're being fingerfucked by a {ACTIVE}!",
+        "You pant and sob, fucked steadily by two {BEAST} fingers, each bigger than a cock.",
+        "Ugh... Is it trying to stretch you out? To... ahh! to take it's {COCK}?",
+        "The beast's fingers pop painfully inside you, and your whole body goes limp, all fight beaten from you.",
+        "The strain of taking two of these {BEAST} fingers inside you is too much, and you cum hard.",
+        "Even as you cum around the beast's fingers, you glance down at its {COCK}. It's still hard..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} suddenly stops struggling, and it's obvious why; the beast's fingers are now fucking her.",
+        "{PRIMARY} goes limp, her slender legs dangling lifelessly as the {ACTIVE} fucks her with two fingers."
+    ]
+}

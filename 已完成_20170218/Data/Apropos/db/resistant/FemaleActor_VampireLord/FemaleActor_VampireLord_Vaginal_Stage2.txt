@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "我腦中開始充斥著各種扭曲變態的想法, 描繪著和那怪物以各種喪心病狂的姿勢交合著.",
+        "他的魔法流向我的身體,在我的四肢間竄動, 用各種令人發顫膽寒的情慾充斥著我..",
+        "我感覺到有一股透徹的魔法能量流經我的身體. 我喘息著,覺得身體變得好敏感,忽然好想要.",
+        "我暗示性的舔了一下嘴唇, 試著讓自己更濕好讓那生物可以進入我的身體裡面抽動.",
+        "當沉溺於做愛時,我感覺身為 {PRIMARY} 的尊嚴正被擊打潰散著.",
+        "我把自己的全部交給了這奇異的怪物, 真是淫蕩阿...",
+        "我的腦海裡只剩下各種關於 {ACTIVE} 的妄想 .",
+        "我的意志開始被侵蝕,腦海裡描繪著和那怪物以各種喪心病狂的姿勢交合著.",
+        "當那惡魔把它的 {COCK} 向我的身體抽動時,我不由自主的低聲哭泣著 ",
+        "{ACTIVE}以未曾聽過的語調呢喃著, 在這瞬間我的乳頭和陰蒂忽然直立並且開始顫動著.",
+        "我繃緊身體開始享受那惡魔的 {COCK} 在我體內的每一個抽插.",
+        "我從沒有見過我的乳頭像現在這樣使勁地腫脹豎起著.",
+        "{ACTIVE}在力氣用盡前仍緩慢的用它的 {COCK} 在我的 {PUSSY} 抽動了好幾次 .",
+        "{ACTIVE}在我的雙腿間來回抽動並一邊貪婪的看著他們."
+    ],
+    "2nd Person" :
+    [
+        "Your mind fills with perverted thoughts, picturing the beast in all kinds of perverse situations with you.",
+        "Magic flows through your body, permeating your extremities, filling you with a shivering, shuddering lust.",
+        "You feel a penetrating magical energy flow through you. Your whole body is sensitive, and you pant needily.",
+        "You offer a suggestive lick of your lips as you feel the creature pump himself wetly into you.",
+        "You feel pangs of pride as {PRIMARY} is spread and fucked.",
+        "You give yourself wholly to such a grotesque monster, it's so erotic...",
+        "Your mind fills with perverted thoughts about the {ACTIVE}.",
+        "You picture the demon in all kinds of perverse situations with you as your mind is assaulted.",
+        "You whimper breathlessly as the vampire's {COCK} moves inside you.",
+        "The {ACTIVE} speaks in an unknown tongue, and your clit and nipples are suddenly erect and throbbing.",
+        "You tense up in pleasure each time the {BEAST} {COCK} pushes forward and disappears inside you.",
+        "Your nipples bulging painfully erect, as long as you've ever seen them.",
+        "The {ACTIVE} pumps his {COCK} slowly a few times into your {PUSSY}, before it really goes to town.",
+        "The {ACTIVE} stares lustfully at your legs as they shake, all the while pounding between them."
+    ],
+    "3rd Person" :
+    [
+        "The mind fills with perverted thoughts, picturing the beast in all kinds of perverse situations.",
+        "A penetrating magical energy flow through the air, and {PRIMARY} pants needily.",
+        "{PRIMARY} offers a suggestive lick of her lips as the creature pumps himself wetly into her.",
+        "{PRIMARY} feels pangs of pride as she is spread and fucked.",
+        "{PRIMARY} gives herself wholly to such a grotesque monster, it's so erotic..."
+    ]
+}

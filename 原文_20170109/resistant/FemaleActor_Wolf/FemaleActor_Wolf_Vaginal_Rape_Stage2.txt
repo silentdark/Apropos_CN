@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if I get fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against my bare skin has an immediate effect on my nipples.",
+        "Ah! This can't be happening! I'm being penetrated by a beast's {COCK}....",
+        "Incredible heat radiates from the {COCK} inside me, making my whole body break out in a cold sweat.",
+        "I'm rocked back and forth as the beast begins fucking me in earnest.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates my channel for what I fear is to be a long fucking.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, filling my womb to its maximum capacity."
+    ],
+    "2nd Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if you get fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against your bare skin has an immediate effect on your nipples.",
+        "The beast's {COCK} penetrates you deeply, but you are too tired to fight back.",
+        "Incredible heat radiates from the {COCK} inside you, making your whole body break out in a cold sweat.",
+        "You're rocked back and forth as the beast begins fucking you in earnest.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates your channel for what you fear is to be a long fucking.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, filling your womb to its maximum capacity."
+    ],
+    "3rd Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if {PRIMARY} gets fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against {PRIMARY}'s bare skin has an immediate effect on her nipples."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "当我的{PUSSY}最终被撑开的时候,我感到很容易就能吞下他{HUGE} {PENIS}.",
+        "我正为我现在做的事感到羞耻, 却没有想要把双腿合上, 或是有任何遮掩我羞耻部位的打算.",
+        "({ACTIVE}) 再快点! 你这{BITCH}, 你个{WHORE} 看起来这是很清楚如何取悦男人呢!",
+        "我开始有规律的抽动, 但是这让我看起来更加淫贱了.",
+        "({ACTIVE}) 你这个{BITCH}! 我打赌你来这儿就是为了被操翻的.",
+        "({ACTIVE}) 真是爽歪了, 这个{BITCH} 干起来真舒服!",
+        "({ACTIVE}) 这里每一个人都会看到你赤身裸体的样子, 甚至是你身体最羞耻的部分.",
+        "{ACTIVE} 说我到时候就会求他把{CUM}射进来. 我隐隐觉得, 他说的是对的..."
+    ],
+    "2nd Person" :
+    [
+        "As your {PUSSY} finally starts to stretch out, you can more easily take the {HUGE} {PENIS}.",
+        "You're ashamed of what you're being made to do, but make no attempt to close your legs, or hide your shame.",
+        "({ACTIVE}) Faster! Come on {BITCH}, a little {WHORE} like you surely knows how to please a man!",
+        "You start to pump steadily, more shallow strokes but still all the way to the base.",
+        "({ACTIVE}) You're such a {BITCH}! I bet you came all the way out here just to get fucked.",
+        "({ACTIVE}) Damn, this {BITCH} can fuck!",
+        "({ACTIVE}) Everyone will see you completely naked, every inch of your body.",
+        "{ACTIVE} boasts that you're going to beg for his {CUM}. At this rate, he may be right..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} bounces faster now, up and down the {ACTIVE}'s {PENIS}.",
+        "The {ACTIVE}'s {PENIS} disappears all the way up {PRIMARY}, and she gasps every time.",
+        "It's horrible, seeing {PRIMARY} crying and sobbing while degrading herself for these lecherous bastards.",
+        "{ACTIVE}) C'mon, {BITCH}, spread your legs wider! Let everyone see how much {COCK} you can take!",
+        "({ACTIVE}) You ride {COCK} just like my sister! She cried, too."
+    ]
+}

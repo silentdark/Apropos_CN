@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "My head is forced down by the weight of the beast pounding away, and I strain to keep my face held up.",
+        "My eyes screw shut, my fists clench and I scream into the dirt as the {ACTIVE} fucks me.",
+        "Oh fuck! I've got to... OH! OH... try and get up! I can't let this animal cum in me!",
+        "I feel the {ACTIVE}'s rough fur between my ass cheeks while he slides in and out of me, panting in my ear.",
+        "The animal's {COCK} leaks copious amounts of pre-cum onto me, as it nears its climax.",
+        "I can't get it out... the knot is too swollen...",
+        "I clench my teeth and vainly fight my building orgasm.",
+        "The beast's knot pops painfully in and out of my {WTVAGINAL} {PUSSY}, fucking me loose.",
+        "The {ACTIVE} pulls away, but can't. Its {BEAST} knot is stuck in my {PUSSY}, tying us together.",
+        "The knot swells, spreading the moist walls of my {WTVAGINAL} {PUSSY} out as it swells and expands."
+    ],
+    "2nd Person": [
+        "Your head is forced down by the weight of the beast pounding away, and you strain to keep your face held up.",
+        "Your eyes screw shut, your fists clench and you scream into the dirt as the {ACTIVE} fucks you.",
+        "Oh fuck! You've got to... OH! OH... try and get up! You can't let this animal cum in you!",
+        "You feel the {ACTIVE}'s rough fur between your ass cheeks as he slides in and out, panting in your ear.",
+        "The animal's {COCK} leaks copious amounts of pre-cum onto you, as it nears its climax.",
+        "You can't get it out... the knot is too swollen...",
+        "You clench your teeth and vainly fight your building orgasm.",
+        "The beast's knot pops painfully in and out of your {WTVAGINAL} {PUSSY}, fucking you loose.",
+        "The {ACTIVE} pulls away, but can't. Its {BEAST} knot is stuck in your {PUSSY}, tying you together.",
+        "The knot swells, spreading the moist walls of your {WTVAGINAL} {PUSSY} out as it swells and expands."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s head is forced down by the weight of the beast pounding away, straining to keep her face held up.",
+        "{PRIMARY}'s eyes screw shut, her fists clench and she screams into the dirt as the {ACTIVE} fucks her.",
+        "The animal's {COCK} leaks copious amounts of pre-cum onto {PRIMARY}, as it nears its climax.",
+        "{PRIMARY} can't get it out... the knot is too swollen...",
+        "{PRIMARY} clenches her teeth and vainly fights her building orgasm."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}用她的腳把我推開.無恥的{BITCH}...",
+        "{PRIMARY}顫抖著用她的腳版搓揉我的{COCK},她的腳趾環繞著我的龜頭.",
+        "{PRIMARY}只用她的腳就做的該死的棒.我決定等等要繼續強姦她."
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}用她的腳把你推開.無恥的{BITCH}...",
+        "{PRIMARY}顫抖著用她的腳版搓揉你的{COCK},她的腳趾環繞著你的龜頭.",
+        "{PRIMARY}只用她的腳就做的該死的棒.你決定等等要繼續強姦她."
+    ],
+    "3rd Person" :
+    [
+        "混蛋{ACTIVE}試著向前斜靠,但是{PRIMARY}把他推了回去,試著保持掌控權.",
+        "{PRIMARY}把混蛋{ACTIVE}推了回去,試著用好玩的方式,把她的腳靠向他的{COCK}.",
+        "混蛋{ACTIVE}用激勵的眼神看著{PRIMARY}用赤裸的雙腳溫柔的搓揉著他的{MAROUSAL}{COCK}.",
+        "{PRIMARY}對她的強暴者緊張的羞赧,因為她的{HEAVING}{BOOBS}正明顯的起伏著.",
+        "{PRIMARY}害羞的臉紅因為{CUM}從她的{PUSSY}滴落...天啊..."
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "1st Person" :
+    [
+        "我的身體變得好奇怪...我覺得渾身發軟、性慾高漲... 我無法控制得彎腰趴在地上,盡力把屁股翹高而且撐開.",
+        "我被逼著跪下, 那頭野獸用力得抓著我的腰, 把他的 {COCK} 向我推擠.",
+        "為我張大你的  {ASS} {PRIMARY}, {ACTIVE} 要求著.我沒有辦法反抗,只能聽從他的命令 .",
+        "他在我的腦海裡...我開始喘氣，試著抵抗不讓他侵犯我的意志 .",
+        "我無法控制的拜倒在 {ACTIVE} 面前, 努力的把我的 {ASS} 和屁股肉向著他撐大.",
+        "我被自己的欲望擊倒在地, 艱難的試著想要克服自己的慾望.",
+        "我的思緒一片渾濁,完全無法思考, 但是我的身體卻像是被催眠似對著那惡魔的 {COCK} 臣服 .",
+        " {ACTIVE} 用他的肉棒滑過我的小穴 , 當我正要放下心來時, 我的 {ASS} 卻被無情的侵犯了 .",
+        "我緩慢的移動著我的頭部. 我好想趴在地上, 抬高屁股準備迎接他的 {COCK}.",
+        "({ACTIVE}) 我非常清楚你那齷齪的慾望 , {PRIMARY}. 你這個骯髒噁心的 {BITCH}. 像你這樣的 {BITCH} 就應該這樣被對待!",
+        "({ACTIVE}) 像你這樣低等的生物沒有資格產下我的子嗣, 雖然這樣說..我們還是可以在你身上找到不少樂趣...",
+        "({ACTIVE}) 拜倒在我面前吧, {BITCH}.為我張大你的屁股, 你將有榮幸用你的 {ASS} 來服侍我.",
+        "({ACTIVE}) 妳跟其他人類的女人一樣,都只是一群低級的 {BITCH}, 隨時準備好讓我們享用.",
+		"這實在太大了..根本不可能放得...啊啊啊啊!!插進來了!!"
+    ],
+    "2nd Person" :
+    [
+        "Your body begins to feel strange; sensual and submissive. You bend over on the ground, ass-up and open.",
+        "Pushed to your hands and knees, your tiny waist is gripped and you're pulled back onto his {COCK}.",
+        "Spread your {ASS} for me {PRIMARY}, the {ACTIVE} commands. You can't help but obey.",
+        "It's in your mind, and you gasp as it penetrates you.",
+        "You prostrate yourself before the {ACTIVE}, your cheeks and {ASS} spreading wide open for it.",
+        "You sink to the ground, too overcome by lust and desire to fight.",
+        "Your mind is clouded, you can't think straight, but you nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} drags his shaft down your pussy. You almost cum right there, before your {ASS} is penetrated.",
+        "You feel sluggish and your head spins. You bend over on the ground, ass-up and open, awaiting his {COCK}.",
+        "({ACTIVE}) I know your desires, {PRIMARY}. You're just a filthy {BITCH}. Such a {BITCH} deserves THIS!",
+        "({ACTIVE}) Such a base creature is not worthy of my offspring, though I will still take my pleasure...",
+        "({ACTIVE}) Grovel before me, {BITCH}. Spread your cheeks for me, your {ASS} will service me.",
+        "({ACTIVE}) A human woman is nothing more than a mewling {BITCH}, eager to be taken. You are no different."
+    ],
+    "3rd Person" :
+    [
+        "Pushed to her hands and knees, {PRIMARY}'s tiny waist is gripped by the beast pulled back onto his {COCK}.",
+        "Spread your {ASS} for me {PRIMARY}, the {ACTIVE} commands. She can't help but obey.",
+        "{PRIMARY} gasps as it penetrates her.",
+        "{PRIMARY} prostrates herself before the {ACTIVE}, her cheeks and {ASS} spreading wide open for it.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight.",
+        "{PRIMARY} nods weakly as the demon offers his {COCK}.",
+        "{PRIMARY} bends over on the ground, ass-up and open, awaiting his {COCK}."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "My arms give out and I drop to my elbows, my whole body shuddering in exhaustion and climax.疲惫和高潮让我全身发抖。",
+        "He's so deep... Ugh... Most of his forearm is pushing inside me now...他插的如此的深……噢……大部分前臂都塞进去了……",
+        "It's too much... My {WTVAGINAL} {PUSSY} can't take this... I collapse, sobbing, wishing for this to end.太大了……我{WTVAGINAL}{PUSSY}承受不了这个……我要崩溃了，哭泣着期待它能早点结束。",
+        "with a shudder, my orgasm thunders through me, and I moan in shame and release combined.剧烈的高潮让我战栗着，发出了羞耻而释然的呻吟。",
+        "As my orgasm breaks I let out a guttural cry of delight.随着高潮来临，我兴奋的叫喊了出来。",
+        "Ugh! Gods... He's in... his whole fist is all the way into my womb!噢！天哪……他到里面了……他整个拳头都进到了我的子宫里！",
+        "My eyes roll back in my head and my mouth opens wide, but no sound comes out.我的眼珠翻白，张大着嘴，却发不出一点声音。",
+        "Blinding light flashes in my head and my body convulses in a series or orgasms, each stronger than the last.我的脑袋一片空白，身体因剧烈的高潮而阵阵颤抖着，一波强过一波。",
+        "I clutch and grab desperately at the ground beneath me, and every muscle seems to strain and freeze up.我拼命的抓着身下的地面，每一块肌肉都紧绷着。",
+        "I feel myself beginning to spasm in one intense orgasm after another. My whole body feels like it's on fire.我感觉自己在一个又一个的高潮中痉挛。整个身体想着火了一样。"
+    ],
+    "2nd Person" :
+    [
+        "Your arms give out and you drop to your elbows, your whole body shuddering in exhaustion and climax.",
+        "He's so deep... Ugh... Most of his forearm is pushing inside you now...",
+        "It's too much... Your {WTVAGINAL} {PUSSY} can't take this... You collapse, sobbing, wishing for this to end.",
+        "with a shudder, your orgasm thunders through you, and you moan in shame and release combined.",
+        "As your orgasm breaks you let out a guttural cry of delight.",
+        "Ugh! Gods... He's in... his whole fist is all the way into your womb!",
+        "Your eyes roll back in your head and your mouth opens wide, but no sound comes out.",
+        "Blinding light flashes in your head and you convulse in a series or orgasms, each stronger than the last.",
+        "You clutch and grab desperately at the ground beneath you, and every muscle seems to strain and freeze up.",
+        "You begin to spasm in one intense orgasm after another. Your whole body feels like it's on fire."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s arms give out and she drops to her elbows, her whole body shuddering in exhaustion and climax.",
+        "He's so deep... Most of his forearm is pushing inside {PRIMARY} now...",
+        "{PRIMARY} collapses, sobbing, wishing for this to end.",
+        "with a shudder, {PRIMARY}'s orgasm thunders through her, and she moans in shame and release combined.",
+        "As her orgasm breaks {PRIMARY} lets out a guttural cry of delight.",
+        "Ugh! Gods... He's in... his whole fist must be all the way into her womb!"
+    ]
+}

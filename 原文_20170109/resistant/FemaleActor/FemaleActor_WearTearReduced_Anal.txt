@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "My {WTANAL} {ASS} finally starts to feel like I can sit down again.",
+        "The heat I've been enduring in my {WTANAL} {ASS} is starting to cool, although I'm still sensitive.",
+        "I don't think my {ASS} is gaping open any more.",
+        "My {WTANAL} {ASS} isn't as sore as it once was. Maybe I should wait a while before doing that again...",
+        "My {WTANAL} {ASS} doesn't feel as loose as it was.",
+        "My {WTANAL} {ASS} still feels kinda tender...",
+        "A trickle of {SLOPPY} {CUM} drips from my {WTANAL} {ASS}... That must have been pretty far up inside me.",
+        "My {ASS} doesn't hurt as much as it did, but it's still {WTANAL}...",
+        "My {WTANAL} {ASS}... I don't know if I can take another assfuck...",
+        "My {ASS} is still in agony..."
+    ],
+    "2nd Person" :
+    [
+        "Your {WTANAL} {ASS} finally starts to feel like you can sit down again.",
+        "The heat you've in your {WTANAL} {ASS} is starting to cool, although you're still sensitive.",
+        "You don't think your {ASS} is gaping open any more.",
+        "Your {WTANAL} {ASS} isn't as sore as it once was.",
+        "Your {WTANAL} {ASS} doesn't feel as loose as it was.",
+        "Your {WTANAL} {ASS} still feels kinda tender...",
+        "A trickle of {SLOPPY} {CUM} drips from your {WTANAL} {ASS}... That must have been pretty far up inside you.",
+        "Your {WTANAL} {ASS} still kind'a hurts after that last time...",
+        "Your {ASS} doesn't hurt as much, but it's still {WTANAL}.",
+        "Your {WTANAL} {ASS}... You don't know if you can take another assfuck...",
+        "Your {ASS} is still in agony..."
+    ],
+    "3rd Person" :
+    [
+        "A trickle of {SLOPPY} {CUM} drips from {PRIMARY}'s {ASS}... That must have been pretty far up inside her.",
+        "Is {PRIMARY} the kind of girl who takes it up the {ASS}?",
+        "{PRIMARY} must look really good when she's bent over and fucked.",
+        "{PRIMARY} looks like she must be really kinky between the sheets..."
+    ]
+}

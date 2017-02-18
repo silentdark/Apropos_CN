@@ -1,0 +1,62 @@
+{
+	"1st Person" :
+	[
+		"{ACTIVE}把他的{COCK}塞进了我的{MOUTH}里~嗯~~~.",
+		"我听话地含着{ACTIVE}的{COCK}.嗯~~~",
+		"{ACTIVE}用他{HUGE}{COCK}顶开了我的双唇.",
+		"我蹲下身子，引导着{ACTIVE}的{COCK}进入我的{MOUTH}.",
+		"我张开了{MOUTH},让{ACTIVE}的{COCK}插了进去.",
+		"我用我的嘴唇刺激着{ACTIVE},在我的吮吸下{COCK}渐渐挺立了起来.",
+		"我用我的{MOUTH}含住了{ACTIVE}{HUGE}{COCK}.嗯~~~~",
+		"我轻轻向前一倾，{ACTIVE}的{COCK}便被我含在{MOUTH}中.",
+		"当我把{ACTIVE}{TASTY}{COCK}含在嘴里时我感到一阵反胃.",
+		"我微笑着张开了{MOUTH}，吃下了{ACTIVE}的{COCK}.",
+		"我现在就想使劲儿含着你~吸着你的{COCK}~让你把{CUM}都射在我的{MOUTH}里.",
+		"我伸出舌头舔着嘴唇,深情地望着{ACTIVE}.我想吃你的{COCK}~.",
+		"你想把{COCK}放进我的{MOUTH}么?我会把你{CUM}吃的一滴不剩的~.",
+		"{ACTIVE}掏出了他的{COCK}. 嗯,看起来还不错.我要尝一尝.",
+		"{ACTIVE}的{COCK}并没有完全进入我{WTORAL}{MOUTH},所以我先用舌尖环绕着他的龟头.",
+		"我用舌头舔着{ACTIVE}红涨的龟头,然后整根吞了下去.",
+		"{ACTIVE}!快点来{FUCKING}我的{MOUTH}!~~~"
+	],
+	"2nd Person" :
+	[
+		"{ACTIVE}把他的{COCK}塞进了你的{MOUTH}里.",
+		"你听话地含着{ACTIVE}的{COCK}.",
+		"{ACTIVE}用他{HUGE}{COCK}顶开了你的双唇.",
+		"你蹲下身子，引导着{ACTIVE}的{COCK}进入你的{MOUTH}.",
+		"你张开了{MOUTH},让{ACTIVE}的{COCK}插了进去.",
+		"你用嘴唇刺激着{ACTIVE},在你的吮吸下{COCK}渐渐挺立了起来.",
+		"你用{MOUTH}含住了{ACTIVE}{HUGE}{COCK}.嗯~~~~",
+		"你轻轻向前一倾，{ACTIVE}的{COCK}便被你含在{MOUTH}中.",
+		"当你把{ACTIVE}{TASTY}{COCK}含在嘴里时你感到一阵反胃.",
+		"你微笑着张开了{MOUTH}，吃下了{ACTIVE}的{COCK}.",
+		"我现在就想使劲儿含着你~吸着你的{COCK}~让你把{CUM}都射在我的{MOUTH}里.你呻吟着",
+		"你伸出舌头舔着嘴唇,深情地望着{ACTIVE}说到:我想吃你的{COCK}~.",
+		"你想把{COCK}放进我的{MOUTH}么?我会把你{CUM}吃的一滴不剩的~.你询问着",
+		"{ACTIVE}掏出了他的{COCK}. 嗯,看起来还不错.你准备尝一下试试看",
+		"{ACTIVE}的{COCK}并没有完全进入你{WTORAL}{MOUTH},所以你先用舌尖环绕着他的龟头.",
+		"你用舌头舔着{ACTIVE}红涨的龟头,然后整根吞了下去.",
+		"{ACTIVE}!快点来{FUCKING}我的{MOUTH}!~~~你呻吟着"
+	],
+	"3rd Person" :
+	[
+		"{ACTIVE}把他的{COCK}塞进了{PRIMARY}的{MOUTH}里.",
+		"{PRIMARY}听话地含着{ACTIVE}的{COCK}.",
+		"{ACTIVE}用他{HUGE}{COCK}顶开了{PRIMARY}的双唇.",
+		"{PRIMARY}蹲下身子，引导着{ACTIVE}的{COCK}进入{PRIMARY}的{MOUTH}.",
+		"{PRIMARY}张开了{MOUTH},让{ACTIVE}的{COCK}插了进去.",
+		"{PRIMARY}用嘴唇刺激着{ACTIVE},在{PRIMARY}的吮吸下{COCK}渐渐挺立了起来.",
+		"{PRIMARY}用{MOUTH}含住了{ACTIVE}{HUGE}{COCK}.嗯~~~~",
+		"{PRIMARY}轻轻向前一倾，{ACTIVE}的{COCK}便被{PRIMARY}含在{MOUTH}中.",
+		"当{PRIMARY}把{ACTIVE}{TASTY}{COCK}含在嘴里时{PRIMARY}感到一阵反胃.",
+		"{PRIMARY}微笑着张开了{MOUTH}，吃下了{ACTIVE}的{COCK}.",
+		"我现在就想使劲儿含着你~吸着你的{COCK}~让你把{CUM}都射在我的{MOUTH}里.{PRIMARY}呻吟着",
+		"{PRIMARY}伸出舌头舔着嘴唇,深情地望着{ACTIVE}说到:我想吃{PRIMARY}的{COCK}~.",
+		"你想把{COCK}放进我的{MOUTH}么?我会把你{CUM}吃的一滴不剩的~.{PRIMARY}询问着",
+		"{ACTIVE}掏出了他的{COCK}. 嗯,看起来还不错.{PRIMARY}准备尝一下试试看.",
+		"{ACTIVE}的{COCK}并没有完全进入{PRIMARY}{WTORAL}{MOUTH},所以{PRIMARY}先用舌尖环绕着他的龟头.",
+		"{PRIMARY}用舌头舔着{ACTIVE}红涨的龟头,然后整根吞了下去.",
+		"{ACTIVE}!快点来{FUCKING}我的{MOUTH}!~~~{PRIMARY}呻吟着"
+	]
+}

@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}自願的為我的{COCK}張開了雙唇.",
+        "{PRIMARY}沒浪費時間吸我的{COCK},她靈巧的舌頭動了起來.",
+        "{PRIMARY}似乎很難把嘴張的夠大好讓我的{COCK}進去.",
+        "吸了一陣子之後,{PRIMARY}讓我的{COCK}更加硬挺."
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}自願的為你的{COCK}張開了雙唇.",
+        "{PRIMARY}沒浪費時間吸你的{COCK},她靈巧的舌頭動了起來.",
+        "{PRIMARY}似乎很難把嘴張的夠大好讓你的{COCK}進去.",
+        "吸了一陣子之後,{PRIMARY}讓你的{COCK}更加硬挺."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}將他的{COCK}滑進{PRIMARY}的{MOUTH}中.",
+        "{PRIMARY}順從的開始吸起{ACTIVE}的{COCK}.",
+        "{ACTIVE}把他的{HUGE}{COCK}插進{PRIMARY}的嘴唇間.",
+        "{PRIMARY}壓低了身子好讓{ACTIVE}進到她的{MOUTH}裡.",
+        "{PRIMARY}盡量讓{ACTIVE}{COCK}進入了她的{MOUTH}中.",
+        "{PRIMARY}高興的用雙唇含住了{ACTIVE},然後全力的吸吮.",
+        "{PRIMARY}用雙唇含住了{ACTIVE}的{HUGE}{COCK}.",
+        "{PRIMARY}試著向前傾好把{ACTIVE}的{COCK}含進她的{MOUTH}中.",
+        "{PRIMARY}雙手抱住{ACTIVE},問了聲'我可以嗎?就把它的尖端含進了雙唇中'",
+        "當{ACTIVE}不受歡迎的{COCK}穿過她的雙唇,{PRIMARY}感到喉嚨升起一陣嘔吐感.",
+        "{PRIMARY}微笑著張開了嘴把{ACTIVE}的{COCK}放了出來.",
+        "({PRIMARY})我想要壞壞的吸著你的玩意.就在這裡.我要你射在我{MOUTH}裡.",
+        "{ACTIVE}握著雞巴看向了{PRIMARY}赤裸的身體.",
+        "{PRIMARY}一步步走向{ACTIVE},她赤裸的雙足在地板上啪啪的走著,向著他的{COCK}降下.",
+        "({PRIMARY})哇喔,我讓你覺得興奮嗎寶貝?我知道讓它進去的方法!",
+        "({PRIMARY})你喜歡讓你的{COCK}被吸嗎,{ACTIVE}?因為我愛口交.",
+        "({PRIMARY})你要讓你的{COCK}進入我的{MOUTH}?我會含住它然後吞下每一滴{CUM}."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "儘管是被逼著做,{PRIMARY}的奶頭已經硬的要命.",
+        "({ACTIVE})你必須展現更多的熱情,{BITCH}!",
+        "我不確定我要射在她的{MOUTH}中還是她的{BOOBS}上..."
+    ],
+    "2nd Person" :
+    [
+        "儘管是被逼著做,{PRIMARY}的奶頭已經硬的要命.",
+        "({ACTIVE})你必須展現更多的熱情,{BITCH}!",
+        "你不確定你要射在她的{MOUTH}中還是她的{BOOBS}上..."
+    ],
+    "3rd Person" :
+    [
+        "四目相接,{PRIMARY}讓她自己更靠近他的{COCK},試著向他請求.",
+        "({PRIMARY})你要...射在我的{BOOBS}上?還是...在我的{MOUTH}裡?",
+        "混蛋{ACTIVE}注視著{PRIMARY}幫他打手槍的動作.",
+        "混蛋{ACTIVE}在她幫他手淫時饑渴的直視著{PRIMARY}的{BOOBS}.",
+        "混蛋{ACTIVE}會這樣就滿足嗎?如果他要{PRIMARY}幫他口交呢?",
+        "{PRIMARY}的奶頭已經站起來了?這淫蕩的事情對她有這麼大的影響?"
+    ]
+}

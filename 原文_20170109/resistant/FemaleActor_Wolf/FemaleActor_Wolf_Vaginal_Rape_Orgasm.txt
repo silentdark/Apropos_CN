@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "He's really trying to impregnate me. His {COCK}'s swollen inside of me and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he ejaculates inside of me.",
+        "He tenses, and I can feel the first shot fire through and splash against the back of my uterus.",
+        "I go numb, but I'm dimly aware of the slow slurping noise as {CUM} oozes steadily from my {PUSSY}.",
+        "The {BEAST} {COCK} is pressing up on my cervix, while {THICK} {CUM} oozes directly into me.",
+        "Oh my goodness, I can't believe this is happening. This is so wrong.",
+        "Filled with {THICK} {CUM}, I feel my {PUSSY} stretch as the beast tries to pull its {BEAST} {COCK} from me.",
+        "I feel {CUM} bubbling up into my body, a constant, pulsing reminder that I am being raped by an animal.",
+        "Having my {WTVAGINAL} {PUSSY} get fucked and filled with {CUM} by a {ACTIVE} is just too much...",
+        "I whimper as I feel his {COCK} throb inside me, stretching my insides and squirting {CUM} into me.",
+        "Ooooh... my Gods it's (gasp) it's doing it...",
+        "I begin to shake, before gasping and spasming."
+    ],
+    "2nd Person": [
+        "He's really trying to impregnate you. His {COCK}'s swollen inside of you and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he ejaculates inside of you.",
+        "He tenses, and you can feel the first shot fire through and splash against the back of your uterus.",
+        "You go numb, but you're dimly aware of the slow slurping noise as {CUM} oozes steadily from your {PUSSY}.",
+        "The {BEAST} {COCK} is pressing up on your cervix, while {THICK} {CUM} oozes directly into you.",
+        "Oh my goodness, you can't believe this is happening. This is so wrong.",
+        "Filled with {THICK} {CUM}, your {PUSSY} stretches as the beast tries to pull its {BEAST} {COCK} from you.",
+        "You feel {CUM} bubbling up into your body, a constant, pulsing reminder that you are being raped by an animal.",
+        "Having your {WTVAGINAL} {PUSSY} get fucked and filled with {CUM} by a {ACTIVE} is just too much...",
+        "You whimper as you feel his {COCK} throb inside you, stretching your insides and squirting {CUM} into you.",
+        "You begin to shake, before gasping and spasming."
+    ],
+    "3rd Person": [
+        "He's really trying to impregnate {PRIMARY}. His {COCK}'s swollen inside of her and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he ejaculates inside of {PRIMARY}.",
+        "He tenses, and the first shot fires through and splashes against the back of {PRIMARY}'s uterus.",
+        "The {BEAST} {COCK} is pressing up on {PRIMARY}'s cervix, while {THICK} {CUM} oozes directly into her.",
+        "Oh my goodness, is this really happening? This is so wrong."
+    ]
+}

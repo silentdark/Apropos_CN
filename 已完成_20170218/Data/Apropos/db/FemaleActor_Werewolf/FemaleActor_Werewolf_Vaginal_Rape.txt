@@ -1,0 +1,44 @@
+﻿{
+    "1st Person" :
+    [
+        "等一下!!那巨大的東西不可能放得進去的..我應該怎麼辦才好?",
+        "Ah! 這不可能是真的! 我現在正被一頭野獸的{COCK}所侵犯....",
+        "牠無視我的哭泣和懇求,粗魯的將牠的 {BEAST} {COCK} 插進了我緊實的 {PUSSY}.",
+        "那野獸將我抬起,將那一英呎長的肉棒塞進我的身體裡幾乎頂到我的子宮了.",
+        "請你不要殺我...只要讓我活下去,我會用你想要的方式滿足你...",
+        "我投降，不要伤害我！我会......我会让你交配，只要你不伤害我!",
+        "一旦那东西的阴茎球在我体内膨胀，在我被授精前不可能逃脱...",
+        "{ACTIVE}把我的双腿分开，开始操我.",
+        "不要!求你!不要这样! (抽泣)不...拜托不要...",
+        "摔在地上,我甚至没有时间喘口气，那野兽的{COCK}就进入了我的身体.",
+        "当{BEAST}的{COCK}插入我{WTVAGINAL}的{PUSSY}时，我面对着欲望和恐惧.",
+        "{ACTIVE}又大又粗的东西滑入我的体内，让我被潮湿的东西填满.",
+        "坚定地,侵略性地,它让人难以置信的{BEAST}的{COCK}的前几寸滑入我的身体."
+    ],
+    "2nd Person" :
+    [
+        "Wait! That huge thing won't go in! What should you do?",
+        "Ah! This isn't real! you're being penetrated by a beast's {COCK}....",
+        "Your cries go ignored, as the werewolf pushes his {BEAST} {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "The beast is upon you and begins to thrust the full length of it into your womb.",
+        "({PRIMARY}) Please don't kill me... I'll take your knot all the way if you let me live.",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Once the knot batters inside you, you won't be able to escape until you've been inseminated...",
+        "The {ACTIVE} yanks your legs apart and fucks you.",
+        "({PRIMARY}) No! Please! Not like this! No... Please no...",
+        "Knocked to the ground, you can't even catch your breath before the beast's {COCK} fucks into you.",
+        "You can only watch in lust and horror as the {BEAST} {COCK} aligns with your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its dripping mass.",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {COCK} slide up inside of you."
+    ],
+    "3rd Person" :
+    [
+        "That huge thing won't go in! What should {PRIMARY} do?",
+        "Ah! This isn't real! {PRIMARY}'s being penetrated by a beast's {COCK}....",
+        "{PRIMARY}'s cries go ignored, as the werewolf pushes his {BEAST} {COCK} into her {WTVAGINAL} {PUSSY}.",
+        "The beast is upon {PRIMARY} and begins to thrust the full length of it into her womb.",
+        "({PRIMARY}) Please don't kill me... I'll take your knot all the way if you let me live...",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Once the knot batters inside her, {PRIMARY} won't be able to escape until she's been inseminated..."
+    ]
+}

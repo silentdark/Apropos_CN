@@ -1,0 +1,82 @@
+{
+    "descriptors" :
+    {
+        "level0" :
+        [
+            "virgin",
+            "untouched"
+        ],
+        "level1" :
+        [
+            "tight",
+            "welcoming",
+            "snug"
+        ],
+        "level2" :
+        [
+            "pliable",
+            "dilated",
+            "supple",
+            "spread"
+        ],
+        "level3" :
+        [
+            "well fucked",
+            "sore",
+            "pliant",
+            "inviting",
+            "puckered"
+        ],
+        "level4" :
+        [
+            "abused",
+            "puffy",
+            "worn",
+            "exposed"
+        ],
+        "level5" :
+        [
+            "swollen",
+            "cum drenched",
+            "ravished",
+            "flooded"
+        ],
+        "level6" :
+        [
+            "raw",
+            "stretched",
+            "saturated",
+            "poor"
+        ],
+        "level7" :
+        [
+            "loose",
+            "distended",
+            "used"
+        ],
+        "level8" :
+        [
+            "gaping",
+            "experienced",
+            "battered"
+        ],
+        "level9" :
+        [
+            "ruined",
+            "beaten",
+            "destroyed"
+        ]
+    },
+    "descriptors-mcm" : [
+        "0: Virgin",
+        "1: Tight",
+        "2: Well Fucked",
+        "3: Sore",
+        "4: Swollen",
+        "5: Abused",
+        "6: Raw",
+        "7: Gaping",
+        "8: Battered",
+        "9: Ruined"
+    ]
+}

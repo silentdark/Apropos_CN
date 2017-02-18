@@ -1,0 +1,59 @@
+{
+    "1st Person" :
+    [
+        "我的腦子被各種淫亂的畫面所佔據,那些包含我和野獸以各種不同的方式交合...",
+        "我覺得我的陰蒂好像就要炸開了, 我不會讓這種感覺持續太久的...",
+        "我感覺到有一股透徹的魔法能量流經我的身體, 在興奮中感覺到自己的皮膚也變得潮紅.",
+        "我不自然地開始在心中想像自己吮吸著那惡魔,然後讓他在我的體內猛烈的衝刺.",
+        "我的心智被幻象所掌控, 身體慘無人道的被以一種幾乎不可能的方式猛幹, 這種感覺彷彿持續了一個世紀.",
+        "當 {ACTIVE}擊打著我的 {PUSSY}, 我的 {ASS} 彷彿開始感到嫉妒.",
+        "我試圖對抗那情慾的浪潮,並且試著保持我的理智清醒.",
+        "當我的 {CREAM} 沿著我的大腿奔流而下時,陰蒂開始瘋狂地跳動著而且我的 {PUSSY} 好像要裂開了一般.",
+        "我已經完全被肉慾所掌控, 背靠著那個野獸讓他瘋狂的 {COCK} 在我體內抽動.",
+        "那惡魔齷齪的話語彷彿襲向我全身, 讓我的腦海被各種骯髒的想像充斥著.",
+        "他的每一下抽動都讓我淫蕩且大聲的呻吟著, 用屁股努力的夾緊著那 {BEAST} {COCK}",
+        "我緩慢的呻吟著, 感受著那身體被充滿的感覺.",
+        "惡魔的魔法在我的四肢間竄動, 用各種令人發顫膽寒的情慾充斥著我.",
+        "我的身體可能是受那生物的魔法所影響, 我的乳頭雖然十分疼痛卻仍舊立了起來..",
+        "我覺得我的陰蒂好像就要炸開了, 我不會讓這種感覺持續太久的...",
+        "我覺得全身好像被猛烈的颶風掃過. 如果做愛是像這樣的感覺, 那高潮肯定會殺了我!",
+        "吸血鬼那巨大的蛋蛋半露在他的褲襠外,裡面看起來全充滿了精液.",
+        "那吸血鬼沉重的蛋蛋隨著搖晃不斷的擊打在我的小穴上. 我想它們裡面的東西很快也會進入我的身體裡.",
+        "我可以清楚看到那隻野獸的 {COCK} 有如閃電般的在我的身體裡出入.",
+        "({ACTIVE}) 有什麼會讓一個 {BITCH} 發情般的和一隻野獸一次又一次進行這樣危險的做愛?",
+        "({ACTIVE}) 你就只是一個 {BITCH}, 我會一次又一次用我怪物般的 {CUM} 射滿你的子宮!"
+    ],
+    "2nd Person" :
+    [
+        "Your head fills with lewd images of yourself and all manner of beasts.",
+        "Your clit feeling like it's going to explode. You won't last long at this rate...",
+        "You feel a penetrating magical energy flow through you, and you feel your skin flush with excitement.",
+        "Images of yourself fellating and fucking the demon assault your mind, unnaturally arousing you.",
+        "Your mind fills with visions, an eternity of being fucked and abused in inhuman, impossible ways.",
+        "As the {ACTIVE} pounds into your {PUSSY}, your {ASS} aches jealously.",
+        "You fight the waves of lust and struggle to keep your mind clear.",
+        "Your clit throbs madly and your {PUSSY} gapes, streams of your {CREAM} running down your thighs.",
+        "You're completely lost to your lusts now, and you're fucking back against the monster's {COCK} furiously.",
+        "The vampire's words flow through you, filling your mind with vile imagery.",
+        "You moan loudly and lewdly with each thrust, hips squeezing around the {BEAST} {COCK}",
+        "You moan deeply, relishing the feeling of fullness.",
+        "Demonic magic permeates your extremities, filling you with a shivering, shuddering lust.",
+        "Your body responds to the creature's magic, your nipples bulging painfully, sticking straight out.",
+        "Your clit feeling like it's going to explode. You won't last long at this rate...",
+        "You feel waves of raw energy storm through you. If this is what the sex feels like, an orgasm might kill you!",
+        "The vampire's huge balls are drawn halfway up to its crotch and look extremely full.",
+        "The vampire's heavy balls slap into your ass over and over. Soon their contents will be inside you.",
+        "The beast's {COCK} is visible as a bulge in your belly as he thunders into you.",
+        "({ACTIVE}) What happens when a {BITCH} in heat has unprotected sex with beasts, over and over again?",
+        "({ACTIVE}) You're just a {BITCH}, letting your womb be filled again and again by monster {CUM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} won't last long at this rate...",
+        "Images of fellating and fucking the demon assault the mind, bringing unnatural arousal.",
+        "Visions come forth, an eternity of being fucked and abused in inhuman, impossible ways.",
+        "As the {ACTIVE} pounds into {PRIMARY}'s {PUSSY}, her {ASS} aches jealously.",
+        "{PRIMARY} fights the waves of lust and struggles to keep her mind clear.",
+        "{PRIMARY}'s completely lost to her lusts now, and she's fucking back against the monster's {COCK} furiously."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "The {ACTIVE} pounds into me with more frenzy and vigour than any man ever has.",
+        "The {ACTIVE} fucks me hard, slamming its fur-covered hips against my ass with animalistic intensity.",
+        "I feel the warmth and moisture of its {COCK}, disgusted but somehow slightly aroused by its lewd shape.",
+        "The beast pounds me with no restraint, my ass and thighs shaking with every slap from the {ACTIVE}'s {COCK}.",
+        "My {PUSSY} stretches painfully to accommodate the {BEAST} {COCK} that is pounding deep into me.",
+        "The {ACTIVE} heaves it to me again, each thrust getting further up inside me.",
+        "His {COCK} goes deeper and a couple more inches of stiff prick fucks into the my {PUSSY}. I gasp.",
+        "The animal's {COCK} pistons inside me like a battering ram, and I wait for the inescapable conclusion.",
+        "The {ACTIVE} pounds me, faster and faster, each thrust making a loud slap.",
+        "Hot spittle drips onto my flesh as the {ACTIVE} ruts hard and fast.",
+        "Uhhh! Ahhh! It's too big, there's too much cock...",
+        "My grunts get faster and more desperate as the beast hammers into me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} pounds into you with more frenzy and vigour than any man ever has.",
+        "The {ACTIVE} fucks you hard, slamming its fur-covered hips against your ass with animalistic intensity.",
+        "You feel the warmth and moisture of its {COCK}, disgusted but somehow slightly aroused by its lewd shape.",
+        "The beast pounds you with no restraint, your ass and thighs shaking with every slap from its {COCK}.",
+        "Your {PUSSY} stretches painfully to accommodate the {BEAST} {COCK} that is pounding deep into you.",
+        "The {ACTIVE} heaves it to you again, each thrust getting further up inside you.",
+        "His {COCK} goes deeper and a couple more inches of stiff prick fucks into the your {PUSSY}. You gasp.",
+        "The animal's {COCK} pistons inside you like a battering ram, and you wait for the inescapable conclusion.",
+        "The {ACTIVE} pounds you, faster and faster, each thrust making a loud slap.",
+        "Hot spittle drips onto your flesh as the {ACTIVE} ruts hard and fast.",
+        "Your grunts get faster and more desperate as the beast hammers into you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} pounds into {PRIMARY} with more frenzy and vigour than any man.",
+        "The {ACTIVE} fucks {PRIMARY} hard, slamming its fur-covered hips against her ass with animalistic intensity.",
+        "The beast pounds {PRIMARY} with no restraint, her ass shaking with every slap from the {ACTIVE}'s {COCK}.",
+        "{PRIMARY}'s {PUSSY} stretches painfully to accommodate the {BEAST} {COCK} that is pounding deep into her.",
+        "{PRIMARY}'s covered in sweat as she moans and takes the abuse."
+    ]
+}

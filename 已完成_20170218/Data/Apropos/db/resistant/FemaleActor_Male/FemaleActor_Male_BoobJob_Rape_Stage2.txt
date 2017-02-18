@@ -1,0 +1,35 @@
+				{
+    "1st Person" :
+    [
+        "我瑟瑟发抖，全身赤裸在空气中.{ACTIVE}肆意地看着我的脸,我的{BOOBS},和我平坦的小腹.",
+        "{ACTIVE}在我的{BOOBS}中摩擦着.好丢人啊~~~.",
+		"我的全身都被{ACTIVE}看光了~,我的{BOOBS},平坦的小腹,还有我的{PUSSY}.",
+        "好羞涩啊~~我~~我正在用我的{BOOBS}给他的{COCK}服务着~~~.",
+		"{BOOBS}赤裸地被揉捏着,女性的美丽显露无疑.",
+        "我的{BOOBS}已经被挑逗地发红发痒了~~~.",
+		"我用{BOOBS}摩擦着{ACTIVE}，乳头正在以性感地节奏跳动着.",
+        "才刚刚开始他的{COCK}已经这么厉害了！~不敢想象{ACTIVE}接下来会在{PRIMARY}的身体上作什么."
+    ],
+    "2nd Person" :
+    [
+        "你瑟瑟发抖，全身赤裸在空气中.{ACTIVE}肆意地看着你的脸,{BOOBS},和你平坦的小腹.",
+        "{ACTIVE}在你的{BOOBS}中摩擦着.好丢人啊~~~.",
+		"你的全身都被{ACTIVE}看光了~,你的{BOOBS},平坦的小腹,还有你的{PUSSY}.",
+        "你正在用你的{BOOBS}给他的{COCK}服务着~~~.",
+		"你的{BOOBS}赤裸着,被揉捏着,女性的美丽显露无疑.",
+        "你的{BOOBS}已经被挑逗地发红发痒了~~~.",
+		"你用{BOOBS}摩擦着{ACTIVE}，乳头正在以性感地节奏跳动着.",
+        "才刚刚开始他的{COCK}已经这么厉害了！~ 不敢想象{ACTIVE}接下来会在你的身体上作什么."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}瑟瑟发抖，全身赤裸在空气中.{ACTIVE}肆意地看着{PRIMARY}的脸,{BOOBS},和{PRIMARY}平坦的小腹.",
+        "{ACTIVE}在{PRIMARY}的{BOOBS}中摩擦着.好丢人啊~~~.",
+		"{PRIMARY}的全身都被{ACTIVE}看光了~,{PRIMARY}的{BOOBS},平坦的小腹,还有{PRIMARY}的{PUSSY}.",
+        "{PRIMARY}正在用{PRIMARY}的{BOOBS}给他的{COCK}服务着~~~.",
+		"{PRIMARY}的{BOOBS}赤裸着,被揉捏着,女性的美丽显露无疑.",
+        "{PRIMARY}的{BOOBS}已经被挑逗地发红发痒了~~~.",
+		"{PRIMARY}用{BOOBS}摩擦着{ACTIVE}，乳头正在以性感地节奏跳动着.",
+        "才刚刚开始他的{COCK}已经这么厉害了！~ 不敢想象{ACTIVE}接下来会在{PRIMARY}的身体上作什么."
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "1st Person" :
+    [
+        "我在原地站着, 一丝不挂地暴露在寒风中, 渴望着安抚这头野兽的欲望. 我紧张得心脏都快从胸腔中跳出来了.",
+        "我一手轻抚着 {ACTIVE}的侧身, 另一只手则快速的爱抚着我的{FAROUSAL} {PUSSY}.",
+        "我看不出有什么理由可以着急, 为什么不来点更多的前戏呢...",
+        "当我看见这只健壮, 优雅, 充满肌肉的生物时, 我明白为何那些女孩如此钟意马了...",
+        "也许我的盔甲吓到了这只生物? 我慢慢褪去了衣服尝试让它冷静下来...",
+        "我把武器和盔甲都扔在一边就像在告诉它无需害怕...",
+        "这只狂野的, 有力的动物, 被我的裸体所吸引了... 我开始觉得下体已经湿了...",
+        "因为衣服被扔掉了, 我在冷风中瑟瑟发抖, 但是我的乳头却因为兴奋变硬了.",
+        "无需急促, 我能好好享受这段属于我的时间.",
+        "我手指在我 {FAROUSAL} 的阴唇上灵活地跳动着我的身体因为快感颤抖着. 想着马上要发生的事我的脸羞得通红...",
+        "一想到我等下要做的事我的{FAROUSAL} {PUSSY} 兴奋了起来. 和野兽交合是不被允许的, 太堕落了,但我...",
+        "我脱下了衣服, 把我美丽修长的身躯暴露了出来. 我已经为这场堕落的表演做好准备了."
+    ],
+    "2nd Person" :
+       [
+        "你在原地站着, 一丝不挂地暴露在寒风中, 渴望着安抚这头野兽的欲望. 你紧张得心脏都快从胸腔中跳出来了.",
+        "你一手轻抚着 {ACTIVE}的侧身, 另一只手则快速的爱抚着你的{FAROUSAL} {PUSSY}.",
+        "你看不出有什么理由可以着急, 为什么不来点更多的前戏呢...",
+        "当你看见这只健壮, 优雅, 充满肌肉的生物时, 你明白为何那些女孩如此钟意马了...",
+        "也许你的盔甲吓到了这只生物? 你慢慢褪去了衣服尝试让它冷静下来...",
+        "你把武器和盔甲都扔在一边就像在告诉它无需害怕...",
+        "这只狂野的, 有力的动物, 被你的裸体所吸引了... 你开始觉得下体已经湿了...",
+        "因为衣服被扔掉了, 你在冷风中瑟瑟发抖, 但是你的乳头却因为兴奋变硬了.",
+        "无需急促, 你能好好享受这段属于你的时间.",
+        "你手指在你 {FAROUSAL} 的阴唇上灵活地跳动着你的身体因为快感颤抖着. 想着马上要发生的事你的脸羞得通红...",
+        "一想到你等下要做的事你的{FAROUSAL} {PUSSY} 兴奋了起来. 和野兽交合是不被允许的, 太堕落了,但你...",
+        "你脱下了衣服, 把你美丽修长的身躯暴露了出来. 你已经为这场堕落的表演做好准备了."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stands, naked and exposed, about to commit bestiality. It's so intimidating... and sexy.",
+        "{PRIMARY} strokes the {ACTIVE}'s flank, while her other hand flutters over her {FAROUSAL} {PUSSY}.",
+        "There's no reason to hurry, why not have some foreplay before...",
+        "Seeing this huge, graceful, muscled beast, it's understandable why so many girls like horses...",
+        "Perhaps her armour is frightening the animal? {PRIMARY} strips and attempts to calm it...",
+        "{PRIMARY} strips her weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by her naked body... It's such a turn on.",
+        "Dropping her clothes, {PRIMARY} shivers at the cold air, her nipples starting to stiffen.",
+        "There's no need to rush, {PRIMARY} can take her time.",
+        "{PRIMARY} lightly touches her fingers to her {FAROUSAL} folds. Soon...",
+        "Is {PRIMARY} really about to do this? It's so naughty, do depraved..."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "AHHHH!两个{BEAST}的手指在里面用力顶着我,我马上就要高潮了.",
+        "两个{BEAST}的比{COCK}还大的手指坚定地操我的时候，一阵高潮的震颠击穿了我.",
+        "Oh Gods! Yes!我不敢相信我一下吞了两个手指！也许我应该试试两个男人的鸡巴同时...",
+        "我感觉如此充实,被{ACTIVE}的手指深深地草着.我希望他能把另一根塞进我的{ASS}...",
+        "嗯.... 我觉得我现在准备好迎接你的{COCK}了!",
+        "慢慢地泄在{ACTIVE}的手上,我注视着它的{BEAST} {COCK},嘴唇上带着虚弱的笑容."
+    ],
+    "2nd Person" :
+    [
+        "AHHHH! Two {BEAST} fingers push up inside you, and I climax instantly.",
+        "Orgasms shudder through you as two {BEAST} fingers, bigger than a {COCK}, fuck you steadily.",
+        "Oh Gods! Yes! You can't believe you're taking two fingers at once! Maybe you should try two human cocks at once...",
+        "You feel so full, fucked deeply by the {ACTIVE}'s fingers. You wish he'd stick another in your {ASS}...",
+        "({PRIMARY}) Mmmm.... I think I'm ready for your {COCK} now!",
+        "Slowly pumping on the {ACTIVE}'s hand, you gaze down at its {BEAST} {COCK}, a weak smile at your lips."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} cums hard, her body hanging limp as the {ACTIVE} finger fucks her.",
+        "Oh my... {CREAM} is flowing down {PRIMARY}'s legs. She must have cum pretty hard."
+    ]
+}

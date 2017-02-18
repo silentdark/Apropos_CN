@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "My jaw doesn't hurt as much as it did.",
+        "My throat seems to have healed, it doesn't hurt when I swallow any more.",
+        "This might be the first time in a while I can't taste {CUM}...",
+        "Is that {CUM} I can taste in my mouth still?",
+        "Is that... {CUM} in my hair?! How long has that been there? Oh Gods, who's seen it?"
+    ],
+    "2nd Person" :
+    [
+        "Your jaw doesn't hurt as much as it did.",
+        "Your throat seems to have healed, it doesn't hurt when you swallow any more.",
+        "This might be the first time in a while you can't taste {CUM}...",
+        "Is that {CUM} you can taste in your mouth still? And it's not familiar either...",
+        "Is that... {CUM} in your hair?! How long has that been there? Oh Gods, who's seen it?"
+    ],
+    "3rd Person" :
+    [
+        "There's a little bit of {CUM} in {PRIMARY}'s hair. What a {WHORE}...",
+        "{PRIMARY} grimaces as she swallows. Was she expecting it to be painful?"
+    ]
+}

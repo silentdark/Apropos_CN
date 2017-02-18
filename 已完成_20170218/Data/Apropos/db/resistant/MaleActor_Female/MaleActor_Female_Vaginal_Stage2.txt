@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}的{PUSSY}感覺溼了... 真的溼了. 或許她剛被另一個人嫖過?",
+        "{PRIMARY}發出了非常性感的聲音... 她真是一個{WHORE}...",
+        "({PRIMARY})我要你...嗯...盡量幹到我的最深處!",
+        "({PRIMARY})我要更多的{CUM}... 我從沒那麼滿足過... 當然只是今天..."
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}的{PUSSY}感覺溼了... 真的溼了. 或許她剛被另一個人嫖過?",
+        "{PRIMARY}發出了非常性感的聲音... 她真是一個{WHORE}...",
+        "({PRIMARY})我要你...嗯...盡量幹到我的最深處!",
+        "({PRIMARY})我要更多的{CUM}... 我從沒那麼滿足過... 當然只是今天..."
+    ],
+    "3rd Person" :
+    [
+        "他衝刺了一陣子. 他的最後一下衝刺將他的整個{COCK}重重的埋進了{PRIMARY}體內,這讓他們都閉上了眼睛.",
+        "{PRIMARY}隨著每一下撞擊大聲的淫蕩呻吟,下體繞著{ACTIVE}的{COCK}扭動.",
+        "{PRIMARY}夾緊她的大腿和{PUSSY},享受著那充實感.",
+        "{ACTIVE}在{PRIMARY}的{PUSSY}裡來回的抽插著.",
+        "{ACTIVE}和{PRIMARY}進入了一個穩定的性愛狀態.",
+        "他的{COCK}大到頂住了這裡. 他抽插起來的感覺真是爽極了.",
+        "{ACTIVE}非常緩慢的將他的{COCK}在{PRIMARY}的{FAROUSAL} {PUSSY}裡面輕輕抽送.",
+        "{ACTIVE}推開了{PRIMARY},準備再一次的插進她裡面.",
+        "{ACTIVE}再次頂了進去,開始慢慢的幹著 {PRIMARY}.",
+        "{PRIMARY}的{PUSSY}流出了許多精液,而另一根{COCK}已經夾在她{WTVAGINAL}陰唇中.",
+        "{PRIMARY}的{WTVAGINAL} {PUSSY} 緊緊的夾在他的{COCK}根部, 牢牢的將它鎖在她裡面.",
+        "在他瘋狂的幹著{PRIMARY}的時候,他們同時發出了呻吟.",
+        "{PRIMARY}再次騎上{ACTIVE}的{COCK}, 調整了一個舒適的位置. 這將是一場盤腸大戰...",
+        "({PRIMARY}) {ACTIVE},就像你第一次見到我的時候那樣操我.",
+        "({ACTIVE}) 哈, 我就知道我以前上過你!"
+    ]
+}

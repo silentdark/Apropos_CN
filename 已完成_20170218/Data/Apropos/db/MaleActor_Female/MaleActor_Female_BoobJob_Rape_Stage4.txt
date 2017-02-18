@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "當她用她的{BOOBS}幫我的{COCK}打奶炮的時候,我低頭看著{PRIMARY}的雙眼.",
+        "{PRIMARY}用手指插入了她{FAROUSAL}{PUSSY}裡.我就知道她是個{WHORE}!",
+        "{PRIMARY}完全不打算夾起雙腿.也許她正等著有人上她?"
+    ],
+    "2nd Person" :
+    [
+        "當她用她的{BOOBS}幫你的{COCK}打奶炮的時候,你低頭看著{PRIMARY}的雙眼.",
+        "{PRIMARY}用手指插入了她{FAROUSAL}{PUSSY}裡.你就知道她是個{WHORE}!",
+        "{PRIMARY}完全不打算夾起雙腿.也許她正等著有人上她?"
+    ],
+    "3rd Person" :
+    [
+        "雖然{PRIMARY}是被逼著這樣做,她的手指卻插入了她{FAROUSAL}{PUSSY}裡.",
+        "{PRIMARY}掛在{ACTIVE}身上,好用她的{BOOBS}夾著他的{COCK}拼命跳動.",
+        "他們四目相接,{ACTIVE}徹底的支配著{PRIMARY}.",
+        "{PRIMARY}雙腿大開,亮出她{FAROUSAL}{PUSSY}...",
+        "它是如此的粗長堅挺;如果他用這東西捅進她裡面,{PRIMARY}將無法保持自我.",
+        "{PRIMARY}看起來如此的脆弱.而且濕潤."
+    ]
+}

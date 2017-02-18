@@ -1,0 +1,54 @@
+{
+    "1st Person" :
+    [
+        "我腦中開始充斥著各種扭曲變態的想法, 描繪著和那怪物以各種喪心病狂的姿勢交合著.",
+        "那惡魔嘲諷的話語彷彿流竄我全身, 讓我的心智被各種骯髒的想像充斥著.",
+        "我被自己的欲望擊倒在地, 艱難的試著想要多克服自己的慾望哪怕只有一秒鐘.",
+        "吸血鬼的魔法流遍我全身上下, 用令人發抖顫慄的慾望襲擊著我.",
+        "我的身體可能是受那生物的魔法所影響, 我的乳頭雖然十分疼痛卻仍舊立了起來.",
+        "當那惡魔把它的 {COCK} 向我的身體抽動時,我不由自主的低聲哭泣著 .",
+        "我年輕的身體不斷得顫抖著,因為我發現那粗大的 {COCK} 刺激著把我撐開.",
+        " {ACTIVE} 開始以不知名的語調呢喃, 我的心開始被各種可怕卻肉慾的想法充斥.",
+        "我繃緊身體開始享受那惡魔的 {COCK} 在我體內的每一個抽插.",
+        "吸血鬼邪惡的魔法在我的身體裡流竄. 我想要抵抗它, 但是我的身體已經漸漸被開發了.",
+        "我移動著我漸漸麻木的 {BOOBS}, 試著伸直我顫抖的雙腿和麻木的腳趾.",
+        "我感覺到有一股透徹的魔法能量流經我的身體, 在興奮中感覺到自己的皮膚也變得潮紅.",
+        "彷彿嘲笑我一般, {ACTIVE} 緩慢的抽動著他那被愛液弄濕的 {BEAST} 肉棒.",
+        "{ACTIVE} 緩慢的抽動了幾下 {COCK} 然後再瘋狂的往我體內突刺.",
+        "一陣高潮忽然從接近那怪物的地方向我的身體襲來, 這幾乎讓我的膝蓋支撐不住了.",
+        "我的陰蒂感覺就像快要炸開了... 我要試著想辦法..我得逃跑.",
+        "我甩著頭想把淫穢的景象甩出腦海,我必須重獲自由...",
+        "({ACTIVE}) 我將會把我的 {CUM} 深深的注入你的身體裡,在這裡看著妳懷上我的孩子而腫脹的小腹."
+    ],
+    "2nd Person" :
+    [
+        "You're filled with perverted thoughts, picturing the monster in all kinds of perverse situations with you.",
+        "The demon's words flow through you, filling your mind with vile imagery.",
+        "You sink to the ground, too overcome by lust and desire to fight any further.",
+        "The vampire's magic flows through your body, filling you with a shivering, shuddering lust.",
+        "Your body responds to the creature's magic, your nipples bulging painfully, sticking straight out.",
+        "You whimper breathlessly as the demon's {COCK} moves inside you.",
+        "Your young body trembles as you feel the thick {COCK} stimulating your opening.",
+        "The {ACTIVE} speaks in an unknown tongue, and your mind fills with horrible, sensual images.",
+        "You tense up in pleasure each time the demonic {COCK} pushes forward and disappears inside you.",
+        "The vampire's magic flows through your body. You try to fight it, but you're getting turned on.",
+        "You push out your tingling {BOOBS}, and you feel your quivering legs stretch and your toes spread.",
+        "You feel a penetrating magical energy flow through you, and you feel your skin flush with excitement.",
+        "Sneering at you, the {ACTIVE} slowly pumps his {BEAST} length, soaked in your juices and his precum.",
+        "The {ACTIVE} pumps his {COCK} slowly a few times, before fucking you furiously.",
+        "An orgasm flashes through your own body just from proximity to the beast, and your knees begin to buckle.",
+        "Your clit feels like it's going to explode. You try to fight it, you have to escape...",
+        "You try to shake the lewd visions, you have to get free...",
+        "({ACTIVE}) I'm going to plant my {CUM} deep inside you and watch your belly swell with my child."
+    ],
+    "3rd Person" :
+    [
+        "The demon's words flow through the area, filling the mind with vile imagery.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight any further.",
+        "{PRIMARY}'s body responds to the creature's magic, her nipples bulging painfully, sticking straight out.",
+        "{PRIMARY} whimpers breathlessly as the demon's {COCK} moves inside her.",
+        "The {ACTIVE} speaks in an unknown tongue, and horrible, sensual images spring to mind.",
+        "{PRIMARY} tenses up in pleasure each time the demonic {COCK} pushes forward and disappears inside her.",
+        "{PRIMARY} pushes out her tingling {BOOBS}, her quivering legs stretch and her toes spread."
+    ]
+}

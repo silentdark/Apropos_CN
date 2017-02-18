@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "The beast is plowing my {WTANAL} {ASS} furiously, not caring about my pained screams.",
+        "Oh Gods, I can't take any more!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "I pray for this to end, but still the assault continues.",
+        "The {BEAST} continues to drive itself deep inside my helpless body.",
+        "I grunt with every thrust that takes the creature deeper into my {WTANAL} {ASS}.",
+        "I wiggle my hips a bit, trying to accommodate the girth of the considerable {COCK} buried inside my {ASS}.",
+        "The pain makes my ass involuntarily clench around the {HUGE} {COCK}, which only hurts worse.",
+        "I have no idea how long the beast will continue to use me like this...",
+        "Oh Gods, is it going to drag me back to its lair after this?",
+        "The huge filthy beast continues to pound into my {ASS}, my body shaking with every hit."
+    ],
+    "2nd Person": [
+        "The beast is plowing your {WTANAL} {ASS} furiously, not caring about your pained screams.",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "You pray for this to end, but still the assault continues.",
+        "The {BEAST} continues to drive itself deep inside your helpless body.",
+        "You grunt with every thrust that takes the creature deeper into your {WTANAL} {ASS}.",
+        "The pain makes your ass involuntarily clench around the {HUGE} {COCK}, which only hurts worse.",
+        "You have no idea how long the beast will continue to use you like this...",
+        "Oh Gods, is it going to drag you back to its lair after this?",
+        "The huge filthy beast continues to pound into your {ASS}, your body shaking with every hit."
+    ],
+    "3rd Person": [
+        "The beast is plowing {PRIMARY}'s {WTANAL} {ASS} furiously, not caring about her pained screams.",
+        "{PRIMARY} prays for this to end, but still the assault continues.",
+        "The {BEAST} continues to drive itself deep inside {PRIMARY}'s helpless body.",
+        "{PRIMARY} grunts with every thrust that takes the creature deeper into her {WTANAL} {ASS}.",
+        "{PRIMARY} wiggles her hips a bit, trying to accommodate the girth of the {COCK} buried inside her {ASS}.",
+        "There are stories of country girls who had been caught in the woods by trolls... and it seems they're true!"
+    ]
+}

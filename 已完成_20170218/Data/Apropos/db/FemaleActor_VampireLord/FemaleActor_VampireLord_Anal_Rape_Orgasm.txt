@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "當那骯髒的生物把我的 {ASS} 抬高, 把他那 {THICK} {CUM}注入我的身體,我只能尖叫著趴在地上.",
+        "我四隻著地得趴在地板上試著把我的 {ASS} 抬得更高,盡我所能的讓 {ACTIVE} 的 {CUM} 充滿我 .",
+        "({ACTIVE}) 看到了嗎?你不過也是一個被肉慾掌控的 {BITCH}, 渴望我這樣的野獸把種子射進你身體裡.",
+        "我撐起沉重的眼皮向上仰視, 當那生物開始將它的 {CUM} 注入時,我的嘴不由自主的開始顫抖著.",
+        "我的意志和身體漸漸開始變得疲軟無力... 在神智恍惚之中仍感覺到那 {CUM} 沿著我流血的大腿往下流.",
+        "在我達到前所未有的高潮時,我發現自己的眼淚也不停的從臉上滑落 .",
+        "當 {ACTIVE} 終於達到高潮時, 那不斷噴射的肉棒使我也同時得到了滿足.",
+        "我拋下了自己所有的防衛, 渾身顫抖著迎接那前所未有的高潮 .",
+        "({ACTIVE}) Ahhh!你的肚子將被我的種子所灌滿, 這對你來說是多麼的光榮阿 , {PRIMARY}.",
+        "({ACTIVE}) 真是令人感嘆阿! 那偉大的龍裔, 現在居然卑微的趴在地板上,用她那高貴的 {ASS} 去了!",
+		"{ACTIVE}:真是丟臉啊!這頭母狗居然被操得快要用她的{ASS}去了!"
+    ],
+    "2nd Person" :
+    [
+        "You scream into the ground, with your {ASS} hiked up, as this foul creature squirts his {THICK} {CUM}.",
+        "Prostrate on all fours, you raise your {ASS} higher, taking the {ACTIVE}'s {CUM} as deep as you can.",
+        "({ACTIVE) See? Nothing more than a lust-filled {BITCH}, eager to take any beast's seed.",
+        "You glance up from under heavy eyelids, panting as you feel the creature pump {CUM} into you.",
+        "Your mind feels as languid and heavy as your body... You're dimly aware of {CUM} oozing down your thighs.",
+        "Tears stream down your face from the strain of your own earth-shattering climax.",
+        "As the {ACTIVE} climaxes, an earth shattering orgasm rips through your own body as well.",
+        "All resistance sapped from your mind, you throw yourself into an almighty climax, your whole body convulsing.",
+        "({ACTIVE}) Ahhh! Consider yourself honoured, {PRIMARY}. Your bowels are full of my seed.",
+        "({ACTIVE}) The mighty Dragonborn, on all fours, climaxing from her {ASS}! How disappointing!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} screams into the ground, with her {ASS} hiked up, as this foul creature squirts his {THICK} {CUM}.",
+        "Prostrate on all fours, {PRIMARY} raises her {ASS} higher, taking the {ACTIVE}'s {CUM} as deep as she can.",
+        "({ACTIVE}) See? Nothing more than a lust-filled {BITCH}, eager to take any beast's seed.",
+        "{PRIMARY} glances up from under heavy eyelids, her mouth open as the creature pumps {CUM} into her.",
+        "Tears stream down {PRIMARY}'s face from the strain of her own earth-shattering climax."
+    ]
+}

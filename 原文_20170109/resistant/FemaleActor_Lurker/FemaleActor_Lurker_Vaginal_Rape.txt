@@ -1,0 +1,49 @@
+{
+    "1st Person": [
+        "My {PUSSY} stretches impossibly and my tummy bulges as the {ACTIVE} stuffs his {COCK} up into me.",
+        "The {ACTIVE} lifts me into the air, and roughly impales me onto his {COCK}.",
+        "My nose is immediately assaulted by a strong musk that I instantly recognize; the smell of {CUM}. Oh Gods...",
+        "I can't take that big... thing... inside me, it's bigger than my arm...",
+        "My {PUSSY} stretches painfully as the giant {COCK} is forced into me.",
+        "It feels like I'm being ripped apart, and my vision begins to black out.",
+        "My stomach hurts as the massive {COCK} is forced deep inside me.",
+        "My mouth hangs open in a silent scream as the massive crown moves past my lips, and into my body!",
+        "I surrender, no more! Please, I won't survive your {COCK}!",
+        "Stop, please! It can't possibly fit!",
+        "My eyes roll back into my head as the {ACTIVE}'s {BEAST} {COCK} slowly penetrates me.",
+        "Its {COCK} drips sweat and pre-cum onto my collarbone, before I am roughly lifted and taken.",
+        "Dear gods... is... is that his... {COCK}?! Oh my god, that IS his {COCK}! I'm not sure I can do this...",
+        "Slowly, agonisingly, I watch my body accept his, his immense size bulging my flat tummy.",
+        "This unclean beast stinks of sweat and {SCUM}... and it wants to have sex with me..."
+    ],
+    "2nd Person": [
+        "Your {PUSSY} stretches impossibly and your tummy bulges as the {ACTIVE} stuffs his {COCK} up into you.",
+        "The {ACTIVE} lifts you into the air, and roughly impales you onto his {COCK}.",
+        "Your nose is assaulted by a strong musk that you instantly recognize; the smell of {CUM}. Oh Gods...",
+        "You can't take that big... thing... inside you, it's bigger than your arm...",
+        "Your {PUSSY} stretches painfully as the giant {COCK} is forced into you.",
+        "It feels like you are being ripped apart, and your vision begins to black out.",
+        "Your stomach hurts as the massive {COCK} is forced deep inside you.",
+        "Your mouth hangs open in a silent scream as the massive crown moves past your lips, and into your body!'",
+        "({PRIMARY}) I surrender, no more! Please, I won't survive your {COCK}!",
+        "({PRIMARY}) Stop, please! It can't possibly fit!'",
+        "Your eyes roll back into your head as the {ACTIVE}'s {BEAST} {COCK} slowly penetrates you.",
+        "Its {COCK} drips sweat and pre-cum onto your collarbone, before you are roughly lifted and taken.",
+        "Dear Gods... is... is that his... {COCK}?! Oh Gods, that IS his {COCK}! You're not sure you can do this...",
+        "Slowly, agonisingly, you watch your body accept his, his immense size bulging your flat tummy.",
+        "This unclean beast stinks of sweat and {SCUM}... and it wants to have sex with you..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s {PUSSY} stretches impossibly and her tummy bulges as the {ACTIVE} stuffs his {COCK} up into her.",
+        "The {ACTIVE} lifts {PRIMARY} into the air, and roughly impales her onto his {COCK}.",
+        "A strong musk pervades the air, instantly recognisable; the smell of {CUM}. Oh Gods...",
+        "{PRIMARY} can't take that big... thing... inside her, it's bigger than her arm...",
+        "{PRIMARY}'s mouth hangs open in a silent scream as the massive crown moves past her lips, and into her body!",
+        "({PRIMARY}) Stop, please! It can't possibly fit!",
+        "{PRIMARY} eyes roll back into her head as the {ACTIVE}'s {BEAST} {COCK} slowly penetrates her.",
+        "Its {COCK} drips sweat and pre-cum onto her collarbone, before {PRIMARY} is roughly lifted and taken.",
+        "Dear gods... is... is that his... {COCK}?! Can {PRIMARY} really do this?",
+        "Slowly, agonisingly, {PRIMARY} watches her body accept his, his immense size bulging her flat tummy.",
+        "This unclean beast stinks of sweat and {SCUM}... and it wants to have sex with {PRIMARY}..."
+    ]
+}

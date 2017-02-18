@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "沒問題的.繼續,碰碰它.我知道你想這樣做.我也想要你碰我的感覺.",
+        "她蹲著笑嘻嘻的看著我,{PRIMARY}看起來真是個{WHORE}.",
+        "{PRIMARY}握住了我的{COCK}開始擺動."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE})沒問題的.繼續,碰碰它.我知道你想這樣做.我也想要你碰我的感覺.",
+        "她蹲著笑嘻嘻的看著你,{PRIMARY}看起來真是個{WHORE}.",
+        "{PRIMARY}握住了你的{COCK}開始擺動."
+    ],
+    "3rd Person" :
+    [
+        "蹲在{ACTIVE}的面前,{PRIMARY}對著他微笑並握住了他的{HUGE}{COCK}.",
+        "在她開始服侍{ACTIVE}的時候,{PRIMARY}的膝蓋向兩邊分開,露出了她的{FAROUSAL}{PUSSY}.",
+        "{PRIMARY}雙腿分開的跪在{ACTIVE}的面前.",
+        "({PRIMARY})讓我摸你,寶貝.讓我感覺你有多大跟多硬,你這性感的王八蛋.",
+        "{PRIMARY}馬上不管他的意願的開始興奮的幫他手淫...",
+        "{PRIMARY}看著他,在她的臉前面用她的手緩慢的拉扯著{ACTIVE}的{COCK}.",
+        "{PRIMARY}在這{MAROUSAL}年輕人面前笑嘻嘻的讓衣服滑下.",
+        "當{ACTIVE}看著她的每個動作,{PRIMARY}慢慢的蹲在他大張著的雙腿間."
+    ]
+}

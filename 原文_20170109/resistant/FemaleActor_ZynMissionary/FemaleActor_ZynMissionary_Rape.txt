@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I stare up at the {ACTIVE} nervously as he positions himself between my legs. Oh Gods, he's {HUGE}!",
+        "Too weak to resist, I'm limp as the {ACTIVE} spreads my legs and lifts me onto his {HUGE} {COCK}.",
+        "The {ACTIVE}'s {PENIS} thumps down heavily on my stomach. I sharply breath in and my heart flutters.",
+        "({ACTIVE}) You like the look of my {COCK}, don't you {BITCH}?",
+        "The {ACTIVE} lines his {PENIS} up with my {WTVAGINAL} {PUSSY}. I stifle a sob.",
+        "I wearily raise my eyes. In front of me is the {ACTIVE}, his {PENIS} red and angry, about to fuck me.",
+        "The {ACTIVE} towers over me. My heart stops as I hear 'make sure she gets a proper fucking now'.",
+        "Lying on the ground, I can do nothing to resist as {ACTIVE} looms over me."
+    ],
+    "2nd Person": [
+        "You stare up at the {ACTIVE} nervously as he positions himself between your legs. Oh Gods, he's {HUGE}!",
+        "Too weak to resist, you are limp as the {ACTIVE} spreads your legs and lifts you onto his {HUGE} {COCK}.",
+        "The {ACTIVE}'s {PENIS} thumps down heavily on your stomach. You sharply breath in and your heart flutters.",
+        "({ACTIVE}) You like the look of my {COCK}, don't you {BITCH}?",
+        "The {ACTIVE} lines his {PENIS} up with your {WTVAGINAL} {PUSSY}. You stifle a sob.",
+        "You wearily raise your eyes. In front of you is the {ACTIVE}, his {PENIS} red and angry, about to fuck you.",
+        "The {ACTIVE} towers over you. Your heart stops as you hear 'make sure she gets a proper fucking now'.",
+        "Lying on the ground, you can do nothing to resist as {ACTIVE} looms over you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is shaking, too tired to resist the {ACTIVE} as he kneels between her legs.",
+        "{PRIMARY} stares nervously at the {ACTIVE}'s {PENIS}. It's going to be inside her soon.",
+        "({ACTIVE}) No struggling now. You're going to take my {COCK} like a good little {BITCH}.",
+        "The {ACTIVE}'s {PENIS} is reaching her belly button... Is he really going to fuck her with it?"
+    ]
+}

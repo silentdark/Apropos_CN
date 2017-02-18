@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}想要从另一个角度{FUCK}我的{WTVAGINAL} {PUSSY}。"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}想要从另一个角度{FUCK}你的{WTVAGINAL} {PUSSY}。"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}想要从另一个角度{FUCK}{PRIMARY}的{WTVAGINAL} {PUSSY}。"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}哭叫著,但她還是盯著我夾在她的{BOOBS}當中的{COCK}.",
+        "{PRIMARY}的{HEAVING}{BOOBS}讓我非常興奮.",
+        "{PRIMARY}挑釁的看著我操她的{BOOBS}.很快的我的{CUM}會改變她的表情."
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}哭叫著,但她還是盯著你夾在她的{BOOBS}當中的{COCK}.",
+        "{PRIMARY}的{HEAVING}{BOOBS}讓你非常興奮.",
+        "{PRIMARY}挑釁的看著你操她的{BOOBS}.很快的你的{CUM}會改變她的表情."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}赤裸的身體在空氣中顫抖著.{ACTIVE}可以看到她的臉,她的{BOOBS},她纖細的腰身.",
+        "{ACTIVE}在{PRIMARY}的{BOOBS}中衝刺著.真是惡劣啊.",
+        "({ACTIVE}) 我看到你在那搖晃著屁股,等著某個人來操你.你真是個{WHORE}.",
+        "{ACTIVE}可以看到所有東西;{PRIMARY}的{BOOBS},她平坦的小腹,她的{PUSSY}.",
+        "{PRIMARY}感到被侮辱,用她的{BOOBS}去擠壓某人的{COCK}真是一件下賤的事.",
+        "她的{BOOBS}赤裸的擠了出來,{PRIMARY}的女性魅力完全的爆發出來."
+    ]
+}

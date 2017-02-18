@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY}的{MOUTH}溫暖的包著我的{COCK}.",
+        "{PRIMARY}的舌頭在我的{COCK}上舞動著...她是在哪學的?",
+        "{PRIMARY}的奶子在我的{COCK}上快樂的跳動著,似乎她會很高興地把一整天花在這事上.",
+        "她把我的{COCK}越吞越深,我猜她可以直達喉嚨?"
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY}的{MOUTH}溫暖的包著你的{COCK}.",
+        "{PRIMARY}的舌頭在你的{COCK}上舞動著...她是在哪學的?",
+        "{PRIMARY}的奶子在你的{COCK}上快樂的跳動著,似乎她會很高興地把一整天花在這事上.",
+        "她把你的{COCK}越吞越深,你猜她可以直達喉嚨?"
+    ],
+    "3rd Person" :
+    [
+        "當{PRIMARY}開始用她的{MOUTH}服務{ACTIVE}的{TASTY}{COCK},她看起來如此性感.",
+        "{ACTIVE}已經準備好的巨大{COCK}持續的在{PRIMARY}的{MOUTH}中變大,撐開了她的嘴唇.",
+        "{PRIMARY}把她的頭快速前後擺動,好讓更多的{ACTIVE}的{COCK}進入她的{MOUTH}中.",
+        "蹲下來邊吸著{COCK}邊放尿,{PRIMARY}看起來真髒.",
+        "當{PRIMARY}服務著{ACTIVE}的{COCK},饑渴的眼光正看著她赤裸的身體...",
+        "{PRIMARY}毫不掩飾,只是讓她的{HEAVING}{BOOBS}跟奶頭給人自由觀賞.",
+        "當他的朋友看著的時候,{PRIMARY}要怎樣用她的赤裸上身幫{ACTIVE}打出來呢?"
+    ]
+}

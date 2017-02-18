@@ -1,0 +1,63 @@
+{
+    "1st Person" :
+    [
+        	"I could really use a nice stiff {COCK} up my {WTANAL} {ASS} right now...",
+		"My {WTANAL} {ASS} finally starts to feel like I can sit down again.",
+		"The heat I've been enduring in my {WTANAL} sphincter is starting to cool, although I'm still sensitive.",
+		"I don't think my {ASS} is gaping open anymore.",
+		"My {WTANAL} {ASS} isn't as sore as it once was. Maybe I should wait a while before doing that again...",
+		"I fantasize about stripping in a tavern full of men... I close my eyes and give myself to my fantasy.",
+		"I think I'll surprise the next guy I see by telling him he can fuck me up my {WTANAL} {ASS}.",
+		"I fancy getting really kinky...",
+		"If some stranger asked right now to fuck my {WTANAL} {ASS}, I wouldn't say no...",
+		"I bet guys stare at me and wonder if I'm the kind of girl who takes it up the ass...",
+		"My {WTANAL} {ASS} doesn't feel as loose as it was.",
+		"My {WTANAL} {ASS} still feels kind'a tender...",
+		"If I stripped off here, would someone take advantage of me? And would that be so bad...?",
+		"I wonder how many cocks I could take inside me at one time...",
+		"I should show some more skin. Nothing wrong with being a bit of a cocktease!",
+		"A trickle of {SLOPPY} {CUM} drips from my {WTANAL} {ASS}... That must have been pretty far up inside me.",
+		"My {WTANAL} {ASS} is still leaking {CUM}... Maybe I should buy a butt-plug?",
+		"I wonder if people would get offended if I had sex right here. I wonder if they'd join in..."
+    ],
+    "2nd Person" :
+    [
+        	"You could really use a nice stiff {COCK} up your {WTANAL} {ASS} right now...",
+		"Your {WTANAL} {ASS} finally starts to feel like you can sit down again.",
+		"The heat you've in your {WTANAL} sphincter is starting to cool, although you're still sensitive.",
+		"You don't think your {ASS} is gaping open anymore.",
+		"Your {WTANAL} {ASS} isn't as sore as it once was. Maybe you should wait a while before doing that again...",
+		"You fantasize about stripping in a tavern full of men... Closing your eyes, you give yourself to the fantasy.",
+		"You think you'll surprise the next guy you see by telling him he can fuck you up your {WTANAL} {ASS}.",
+		"You fancy getting really kinky...",
+		"If some stranger asked right now to fuck your {WTANAL} {ASS}, you wouldn't say no...",
+		"You bet guys stare at you and wonder if you're the kind of girl who takes it up the ass...",
+		"Your {WTANAL} {ASS} doesn't feel as loose as it was.",
+		"Your {WTANAL} {ASS} still feels kind'a tender...",
+		"If you stripped off here, would someone take advantage of you? And would that be so bad...?",
+		"You wonder how many cocks you could take inside you at one time...",
+		"You should show some more skin. Nothing wrong with being a bit of a cocktease!",
+		"A trickle of {SLOPPY} {CUM} drips from your {WTANAL} {ASS}... That must have been pretty far up inside you.",
+		"Your {WTANAL} {ASS} is still leaking {CUM}... Maybe you should buy a butt-plug?",
+		"You wonder if people would get offended if you had sex right here. You wonder if they'd join in..."
+    ],
+    "3rd Person" :
+    [
+        	"{PRIMARY} looks like she could really use a nice stiff {COCK} up her {WTANAL} {ASS} right now...",
+		"Is {PRIMARY}'s {WTANAL} {ASS} finally starting to feel like she can sit down again?",
+		"{PRIMARY}'s {WTANAL} {ASS} doesn't seem like it's giving her as much pain as it was.",
+		"The pain in {PRIMARY}'s {ASS} seems to have eased. Maybe she should wait a while before doing that again...",
+		"The fantasy of {PRIMARY} just stripping in a tavern full of men... It's so hot.",
+		"{PRIMARY} should surprise the next guy she sees by telling him he can fuck her up her {WTANAL} {ASS}.",
+		"{PRIMARY} has a look that says she fancies getting really kinky...",
+		"If some stranger asked right now to fuck {PRIMARY}'s {WTANAL} {ASS}, she shouldn't say no...",
+		"Is {PRIMARY} the kind of girl who takes it up the {ASS}?",
+		"{PRIMARY}'s {WTANAL} {ASS} still looks kind'a tender...",
+		"If {PRIMARY} stripped off here, would someone take advantage of her? And would that be so bad...?",
+		"How many cocks could {PRIMARY} take inside her at one time?",
+		"{PRIMARY} should show some more skin. Nothing wrong with being a bit of a cocktease!",
+		"A trickle of {SLOPPY} {CUM} drips from her {WTANAL} {ASS}... That must have been pretty far up inside her.",
+		"{PRIMARY}'s {WTANAL} {ASS} is still leaking {CUM}... Maybe she should buy a butt-plug?",
+		"If {PRIMARY} had sex right here, would people get offended? Would they join in?"
+    ]
+}

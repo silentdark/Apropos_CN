@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "我可以感覺到她的唾液暴雨般的灑在我的雞巴跟蛋蛋上.",
+        "我聽說過{PRIMARY}曾跟她爹作愛...按照她吸著我的{COCK}的方式,我信了!",
+        "她漂亮的讓它進的更深了... {PRIMARY}一定做過很多次了...",
+        "我很快就要被{PRIMARY}弄出來了,她真是擅長這玩意..."
+    ],
+    "2nd Person" :
+    [
+        "你可以感覺到她的唾液暴雨般的灑在你的雞巴跟蛋蛋上.",
+        "你聽說過{PRIMARY}曾跟她爹作愛...按照她吸著你的{COCK}的方式,你信了!",
+        "她漂亮的讓它進的更深了... {PRIMARY}一定做過很多次了...",
+        "你很快就要被{PRIMARY}弄出來了,她真是擅長這玩意..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}瘋狂的對著{ACTIVE}的{TASTY}{COCK}又吸又舔, 拼命的塞滿她的{MOUTH}.",
+        "{PRIMARY}不會承認,但她似乎喜歡有根{COCK}在她{MOUTH}裡的感覺.",
+        "{PRIMARY}越來越快的吸食著{ACTIVE}的{TASTY}{COCK}.",
+        "{ACTIVE}操著{PRIMARY}{MOUTH},這使她難以呼吸.",
+        "{PRIMARY}的舌頭在他的{COCK}上滑動著,享受著它的味道.",
+        "根據{ACTIVE}的反應動作,{PRIMARY}把那{TASTY}{COCK}越來越多的吞進她的口中.",
+        "{PRIMARY}赤裸的腳板被那髒地方的污穢覆蓋住了.",
+        "{PRIMARY}完全的赤裸,在陌生人面前徹底展示她的{BOOBS}跟{PUSSY}.",
+        "{PRIMARY}真是個{WHORE},沒事般的吸著雞巴...",
+        "{HUGE}雞巴就是{PRIMARY}的弱點吧...",
+        "似乎{PRIMARY}就是今晚的娛樂活動!",
+        "{PRIMARY}真的只是在演戲嗎?",
+        "({ACTIVE})喔,{PRIMARY},你有著最棒的小嘴!"
+    ]
+}

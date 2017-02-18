@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "我赤裸着跪在{ACTIVE}的面前, 开始卖力的服务他.",
+        "我把 {ACTIVE}的{TASTY} {PENIS}含在我的嘴里,舌头不停搅动着马眼.",
+        "我的手温柔抚摸着{ACTIVE}{MAROUSAL} {PENIS}，我的舌头则逗弄着他的睾丸.",
+        "我正巧妙地刺激着{ACTIVE}的{COCK}和蛋蛋, 用我的小手和舌头.",
+        "即使我跪在这样肮脏的地方, 我依旧尽情享用着{ACTIVE}.",
+        "我乖巧地吸允着{ACTIVE}的{TASTY} {PENIS}.",
+        "我的舌头不断逗弄着{ACTIVE}的龟头，等待着一整根来侵犯我{WTORAL} {MOUTH}.",
+        "我跪在地上，双腿不断地漏出尿液，吸允着{COCK},我感觉自己真是肮脏下贱."
+    ],
+    "2nd Person" :
+    [
+        "You kneel down naked by {ACTIVE}'s side, and begin to service him.",
+        "You take {ACTIVE}'s {TASTY} {PENIS} in your mouth a few times, before slurping at his balls.",
+        "Your hand pumps lazily around {ACTIVE}'s {MAROUSAL} {PENIS} while you tenderly lick his balls.",
+        "You skilfully start to stimulate {ACTIVE}'s {COCK} and balls, using your hands and your mouth.",
+        "Even though you're kneeling in something filthy, you obediently pleasure {ACTIVE}.",
+        "You obediently start to suck {ACTIVE}'s {TASTY} {PENIS}.",
+        "You lick around {ACTIVE}'s cockhead before sliding his entire length into your {WTORAL} {MOUTH}.",
+        "Kneeling down in piss and sucking {COCK}, you feel so seedy."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is on her knees and naked, sucking and slurping {ACTIVE}'s {PENIS} like a {WHORE}.",
+        "Does {PRIMARY} know her {PUSSY} is {FAROUSAL} and on display?",
+        "It certainly looks like {PRIMARY} knows what she's doing with a {COCK}, that looks like it feels so good!",
+        "{PRIMARY} wanks {ACTIVE} slowly while she tongues at his balls, before taking him in her mouth.",
+        "{ACTIVE} watches the little {BITCH} between his legs suck and fondle him dutifully."
+    ]
+}

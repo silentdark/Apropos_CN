@@ -1,0 +1,21 @@
+FemaleActor_Male_Vaginal_Rape - male rapes female.
+    ^ Victim
+FemaleActor_Male_Vaginal_Victim - female rapes male by hopping on his cock (name in same order, same scenes as above)
+              ^ Victim
+              
+Male_FemaleActor_Vaginal_Victim - female rapes male with a strapon (names reversed, scene reversed, still 'vaginal' tag depending on animation used).
+ ^ Victim  
+Male_FemaleActor_Vaginal_Rape - male rapes female by hopping on her strapon (yes, sounds weird, but someone probably wants this).
+          ^ Victim
+          
+MaleActor_Female_Vaginal_Rape - male rapes female.
+
+MaleActor_Female_Vaginal_Victim - female rapes male by jumping on his cock.
+Female_MaleActor_Vaginal_Rape - male rapes female by jumping on her strapon.
+Female_MaleActor_Vaginal_Victim - female rapes male with strapon.
+FemaleActor_Female_Vaginal_Rape - female NPC rapes female PC with a strapon.
+Female_FemaleActor_Vaginal_Rape - female PC rapes female NPC with a strapon.
+FemaleActor_Female_Vaginal_Victim - female NPC rapes female PC by hopping on her strapon (yeah, still weird).
+Female_FemaleActor_Vaginal_Victim - female PC rapes female NPC by hopping on her strapon.
+FemaleActor_Spriggan_Vaginal_Rape - spriggan rapes female.
+FemaleActor_Spriggan_Vaginal_Victim - female rapes spriggan.

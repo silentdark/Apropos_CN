@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "I squirm, but nothing helps relieve the pain from {ACTIVE}'s fist inside m.",
+        "The {ACTIVE} has stopped pumping, but I can feel his fingers moving inside me.",
+        "My strength is already leaving me, and my head hangs limply back as tears fall from my eyes.",
+        "I bite my lip to muffle the sounds of my screams as {ACTIVE} buries his hand to his wrist.",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of my {PUSSY}.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "I let out a gasp as the pressure between my legs increases.",
+        "The strong fear I felt moments earlier is quickly justified, and my body explodes with pain...",
+        "There are no words to describe the feeling of a man pushing his whole arm into your body...",
+        "I close my eyes tight and try to relax my muscles, but my fists clench at the strain.",
+        "Anyone watching can clearly see how white my knuckles are as I dig into the ground beneath me.",
+        "I feel a fourth finger work its way inside me and feel so stretched."
+    ],
+    "2nd Person": [
+        "You squirm, but nothing helps relieve the pain from {ACTIVE}'s fist inside you.",
+        "The {ACTIVE} has stopped pumping, but you can feel his fingers moving inside you.",
+        "Your strength is already leaving you, and your head hangs limply back as tears fall from your eyes.",
+        "You bite your lip to muffle the sounds of your screams as {ACTIVE} buries his hand to his wrist.",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of your {PUSSY}.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "You let out a gasp as the pressure between your legs increases.",
+        "The strong fear you felt moments earlier is quickly justified, and your body explodes with pain...",
+        "There are no words to describe the feeling of a man pushing his whole arm into your body...",
+        "You close your eyes tight and try to relax your muscles, but your fists clench at the strain.",
+        "Anyone watching can clearly see how white your knuckles are as you dig into the ground beneath you.",
+        "You feel a fourth finger work its way inside you and feel so stretched."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} has stopped moving, but {PRIMARY} is still squirming, unable to back off his hand.",
+        "{PRIMARY}'s head falls back and she wails in distress, her whole body shaking as her {PUSSY} stretches.",
+        "{PRIMARY}'s strength is already leaving her, and her head hangs limply back as tears fall from her eyes.",
+        "{PRIMARY}'s knuckles are white with strain as she forces her body to push down harder onto the {ACTIVE}.",
+        "{PRIMARY} bites her lip to muffle the sounds of her screams as {ACTIVE} buries his hand to his wrist.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "{PRIMARY} lets out a gasp as the pressure between her legs increases."
+    ]
+}

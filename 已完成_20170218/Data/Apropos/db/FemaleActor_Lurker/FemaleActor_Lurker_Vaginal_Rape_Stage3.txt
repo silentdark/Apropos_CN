@@ -1,0 +1,57 @@
+{
+    "1st Person" :
+    [
+        "哦天哪，{ACTIVE}一路穿过我的子宫颈。",
+        "我请求你......停止......你会弄坏我的子宫...",
+        "{ACTIVE}尽可能地插到超出我想象的深度,然后继续深入.",
+        "我尖叫出声，我低头能看到我的肚子膨胀起来适应他的令人难以置信的大小.",
+        "潜伏者只是抱着我的躯干，开始上下抽插，把我当成一个人形飞机杯.",
+        "我尖叫起来，难以理解怪物的{COCK}是如何填满我的身体......",
+        "哦，上帝！把你的{CUM}直射进我的子宫！",
+        "{ACTIVE}将我一直拉到他{COCK}的根部.",
+        "哦，我的天啊，这东西太深了！龟头现在一定在我的喉咙里!",
+        "龟头在巨大的推力下滑进我的子宫里。",
+        "{ACTIVE}继续用它的硕大猛撞我，直到我到达高潮点.",
+        "Ughhhhh ...我从不知道我可以容纳这么大的鸡巴.",
+        "{ACTIVE}尽可能地插到我的深处,超出我的想象，我的整个身体本能的紧绷。",
+        "在似乎有一个世纪那么长的慢慢滑下{BEAST} {COCK}的过程后，我的大腿触摸到了它的蛋.",
+        "我感觉到那个生物的球袋的触感，它的{COCK}已经完全进入我里面.",
+        "当他的{COCK}头滑进我的子宫，草我的{PUSSY}和我的子宫颈的时候我痛苦地呻吟着.",
+        "我的{PUSSY}感觉很痛，我不知道我还能容纳多少..."
+    ],
+    "2nd Person" :
+    [
+        "Holy fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "({PRIMARY}) Please I beg I... stop... you'll break my womb...",
+        "The {ACTIVE} forces himself as far into you as you can manage, and then keeps on going.",
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "Using you like a human cock-sleeve, the giant holds you by the torso and begins pumping you up and down.",
+        "You squeal, struggling to comprehend how the monster's {COCK} is actually fitting inside you...",
+        "({PRIMARY}) Oh God! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling you all the way down to the base of his {COCK}.",
+        "Oh my goodness, the thing's balls deep! His head must be in my throat by now!'",
+        "With an immense push the head slips inside your womb.",
+        "The {ACTIVE} continues to slam its immense girth into you until you're on the cusp of climax.",
+        "Ughhhhh... You didn't know you could take so much cock.",
+        "The {ACTIVE} forces himself as far into you as you can manage. Your whole body is tense with the strain.",
+        "After an age of being stretched open, sliding down the {BEAST} {COCK}, your thighs touch its balls.",
+        "You feel the touch of the creature's ball sack, its {COCK} right up inside you.",
+        "You grunt in pain as the head of his {COCK} slips into your womb, fucking both your {PUSSY} and your cervix.",
+        "Your {PUSSY} being pounded raw. It still hurts bad and you're not sure how much more you can take..."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Please I beg you... stop... you'll break my womb...",
+        "The {ACTIVE} forces himself as far into her as {PRIMARY} can manage, and then keeps on going.",
+        "{PRIMARY} cries out, her stomach distending to accommodate his incredible size.",
+        "Using {PRIMARY} like a human cock-sleeve, the giant simply holds her by the torso and begins pumping.",
+        "{PRIMARY} squeals. How is the monster's {COCK} even fitting inside her?",
+        "({PRIMARY}) Oh Gods! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling {PRIMARY} all the way down to the base of his {COCK}.",
+        "Oh my goodness, the thing's balls deep! The head must be in her throat by now!",
+        "The {ACTIVE} continues to slam its immense girth into {PRIMARY} until she's on the cusp of climax.",
+        "({PRIMARY}) Ughhhhh... I didn't know I could take so much cock.",
+        "The {ACTIVE} forces himself as far into {PRIMARY} as she can manage. Her whole body tenses with strain.",
+        "After what seemed like an age of slowly sliding down the {BEAST} {COCK}, {PRIMARY}'s thighs touch its balls."
+    ]
+}

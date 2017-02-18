@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE})你是不是急著想嚐嚐不死族的 {COCK} 在你緊實身體裡的感覺呢?",
+        "隨著一聲淫蕩的喘息,我躺在地板上將我的雙腿分開,自願讓那個惡魔來上我.",
+        "為我張大你的雙腿{PRIMARY},{ACTIVE} 要求著我 . 我不得不服從他的命令.",
+        "他在我的腦海裡...我開始喘氣，試著抵抗不讓他侵犯我的意志.",
+        "我無力的想要掙扎,試圖抵抗著 {ACTIVE} ,但是他終究還是進入我的身體了.",
+        "我不斷地掙扎,最後卻仍舊臣服於他. 我的雙腿和 {PUSSY} 都大開著等待他的進入.",
+        "我被自己的欲望擊倒在地, 艱難的試著想要克服自己的慾望.",
+        "我的思緒一片渾濁,完全無法思考, 但是我的身體卻像是被催眠似對著那惡魔的 {COCK} 臣服.",
+        " {ACTIVE} 抓住我的屁股把他的肉棒對準我的小穴 , 我差一點就這麼去了.",
+        "我緩慢的移動著我的頭部. 我好想趴在地上, 抬高屁股準備迎接他的 {COCK}.",
+        "我的 {PUSSY}不斷地跳動而且愛液開始順著我的腿流下. 我無法想像當他的 {COCK}真的插入的時候..."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Eager to feel undead {COCK} inside your tight body are you?",
+        "With a lustful sigh, you lie back, spread your legs, and willingly let the demon fuck you.",
+        "Spread your legs for you {PRIMARY}, the {ACTIVE} commands. You can't help but obey.",
+        "It's in your mind, and you gasp as it penetrates you.",
+        "You struggle feebly to resist the {ACTIVE}, but stop completely when it impales you.",
+        "You struggle, but eventually succumb, your legs and {PUSSY} spreading wide open for it.",
+        "You sink to the ground, too overcome by lust and desire to fight.",
+        "Your mind is clouded, you can't think straight, but you nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} grabs your hips and drags his shaft down your pussy, and you almost cum right there.",
+        "You feel sluggish and your head spins. You bend over on the ground, ass-up and open, awaiting his {COCK}.",
+        "Your {PUSSY} throbs and juices run down your legs. You can only imagine what it's like to take its {COCK}..."
+    ],
+    "3rd Person" :
+    [
+        "({ACTIVE}) Eager to feel undead {COCK} inside your tight body are you?",
+        "With a lustful sigh, {PRIMARY} lies back, spreads her legs, and willingly let the demon fuck her.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. She can't help but obey.",
+        "{PRIMARY} gasps as it penetrates her.",
+        "{PRIMARY} struggles feebly to resist the {ACTIVE}, but stops completely when it impales her.",
+        "{PRIMARY} struggles, but eventually succumbs, her legs and {PUSSY} spreading wide open for it.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight.",
+        "{PRIMARY} nods weakly as the demon offers his {COCK}."
+    ]
+}

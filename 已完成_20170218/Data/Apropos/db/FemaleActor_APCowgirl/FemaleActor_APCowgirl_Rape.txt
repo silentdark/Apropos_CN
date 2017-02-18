@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}命令我弯下腿坐到他的大肉棒上.我只能无力的咬着牙屈从于他的命令.",
+        "({ACTIVE}) 张开你的腿, 你这母狗! 让我看着你把我的鸡巴都装进去!是全部，你听见了吗!",
+        "哦老天啊, 他的实在太大了!我感觉到已经顶到我的肚子了... 啊...",
+        "我坐在了{ACTIVE}的肉棒上, 一瞬间我心底的欲望全都涌了上来.",
+        "{ACTIVE}淫笑着看着他巨大的肉棒毫不费力的进入我的淫穴.",
+        "{ACTIVE}把它的家伙放在我的双腿之间. 我还要承受多少这样的屈辱?",
+        "({ACTIVE}) 这只小母狗已经等不及在我们面前张开双腿了!",
+        "当{ACTIVE}把龟头送进了我的身体里时，我已经失神了."
+    ],
+    "2nd Person" :
+    [
+        "Your legs give way as you lower yourself onto the {ACTIVE}'s {PENIS}. All you can do is grind feebly.",
+        "({ACTIVE}) Spread those legs, {BITCH}! Let me see you take my {COCK}! All of it!",
+        "Oh Gods, he's so big! You can feel him up in your stomach... Ugh...",
+        "You sink down onto the {ACTIVE}'s {PENIS}, too overcome by lust and desire to fight.",
+        "The {ACTIVE} laughs as his {HUGE} {PENIS} effortlessly slides into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} takes his turn between your legs. How much more do you have to endure?",
+        "({ACTIVE}) The little {BITCH} didn't even wait to spread her legs for us!",
+        "{ACTIVE} is buried to the balls inside of you. You've lost."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stifles a sob as she drops down onto the {ACTIVE}'s {PENIS}, gasping when she hits the bottom.",
+        "{PRIMARY} seems to be trying to mentally prepare herself, grinding back and forth and breathing heavily.",
+        "Oh my goodness! She's taken his entire {PENIS}, all the way to the base!",
+        "It's heartbreaking to watch {PRIMARY}, being forced to climb onto a stranger's {COCK} and fuck herself...",
+        "{PRIMARY} grunts, twisting painfully on the {ACTIVE}'s {PENIS}. It looks like it's deep..."
+    ]
+}

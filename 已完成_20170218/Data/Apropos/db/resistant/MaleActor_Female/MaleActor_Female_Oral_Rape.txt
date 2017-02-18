@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "我把{PRIMARY}推倒在地上,把我的{COCK}擠向她的雙唇.",
+        "她的頭被牢牢的固定, 她抵抗著我的{COCK}尖端壓向她的嘴唇的舉動.",
+        "當我的{COCK}壓進了她的嘴中,{PRIMARY}試著讓她的舌頭避開.",
+        "我不只是停在她的嘴巴,而是把我的整隻{COCK}擠進了{PRIMARY}的喉嚨底部."
+    ],
+    "2nd Person" :
+    [
+        "你把{PRIMARY}推倒在地上,把你的{COCK}擠向她的雙唇.",
+        "她的頭被牢牢的固定, 她抵抗著你的{COCK}尖端壓向她的嘴唇的舉動.",
+        "當你的{COCK}壓進了她的嘴中,{PRIMARY}試著讓她的舌頭避開.",
+        "你不只是停在她的嘴巴,而是把你的整隻{COCK}擠進了{PRIMARY}的喉嚨底部."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}被壓在地上,雙腿被分開,而一根{SALTY}{COCK}正推向她的雙唇之中.",
+        "{ACTIVE}牢牢的抓住{PRIMARY}的頭好把他的{COCK}頂進她的唇中.",
+        "{ACTIVE}用他的{COCK}在{PRIMARY}的嘴唇中擠壓著.她淚流滿面.",
+        "{PRIMARY}因為{ACTIVE}把他的{SALTY}{COCK}塞進她的{MOUTH}中而窒息.",
+        "{ACTIVE}壓著{PRIMARY}跪下來吸吮他的{SALTY}{COCK}.她閉上眼睛服從了.",
+        "{ACTIVE}拉扯著{PRIMARY}的頭髮並用力的擠進她的{MOUTH}中.",
+        "{ACTIVE}壓著{PRIMARY}跪下逼著她吸吮一個陌生人的{COCK}.",
+        "{ACTIVE}用他的{COCK}碰撞{PRIMARY}的嘴唇.她試著緊閉雙唇,但是徒勞無功.",
+        "{PRIMARY}的衣服被撕開,露出了她的{BOOBS}.",
+        "很快的,{PRIMARY}就會把他的{COCK}塞進她的{MOUTH}裡.",
+        "({PRIMARY})拜託...別傷害我...我會吸吮你的{COCK}..."
+    ]
+}

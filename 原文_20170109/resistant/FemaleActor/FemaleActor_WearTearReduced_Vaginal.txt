@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "I start to feel warm {CUM} dribble down my thighs. I can't believe that was still inside me!",
+        "Thinking about all the cumshots I've taken, I shiver. Could I already be pregnant?",
+        "My {WTVAGINAL} {PUSSY} isn't as wide open as it was earlier...",
+        "He really gave me a pounding, I still feel sore...",
+        "The pain in my {WTVAGINAL} {PUSSY} is starting to cool, although it's still sensitive.",
+        "I don't feel so much like my cervix is on display any more, though my {PUSSY} is still {WTVAGINAL}.",
+        "Even though some time has passed, I still smell of {CUM} and sex...",
+        "My {PUSSY} doesn't hurt as much as it did, but it's still {WTVAGINAL}...",
+        "My poor, {WTVAGINAL} {PUSSY}...",
+        "I wonder if I'm pregnant?",
+        "I'm starting to get paranoid. I'm expecting a dragon to swoop down any moment, and stick its {COCK} in me."
+    ],
+    "2nd Person" :
+    [
+        "You start to feel warm {CUM} dribble down your thighs. You can't believe it's still inside you.",
+        "Thinking about all the cumshots you've taken, you shiver. Could you already be pregnant?",
+        "Your {PUSSY} is {WTVAGINAL}...",
+        "Your {WTVAGINAL} {PUSSY} isn't as wide open as it was earlier...",
+        "The pain in your {WTVAGINAL} {PUSSY} is starting to cool, although it's still sensitive.",
+        "He really gave you a pounding, you still feel sore...",
+        "You don't feel so much like your cervix is on display any more, though your {PUSSY} is still {WTVAGINAL}.",
+        "Your {PUSSY} doesn't hurt as much as it did, but it's still {WTVAGINAL}...",
+        "Even though some time has passed, you still smell of {CUM} and sex...",
+        "Your poor, {WTVAGINAL} {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} seems to be staring lustfully at everything with a {COCK}.",
+        "({PRIMARY}) I really need to be fucked...",
+        "{PRIMARY} must look really good naked. Maybe she'll let some guy fuck her soon...",
+        "{PRIMARY} is really pretty, she could have any guy she wanted.",
+        "What kind of face does {PRIMARY} pull when she's being screwed?",
+        "{PRIMARY} doesn't seem to be walking funny any more.  Her {PUSSY} must not be as sore anymore."
+    ]
+}
